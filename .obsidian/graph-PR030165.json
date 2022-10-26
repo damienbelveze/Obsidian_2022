@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:@",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#désinformation",
+      "color": {
+        "a": 1,
+        "rgb": 5431401
+      }
+    },
+    {
+      "query": "tag:#programmation",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    },
+    {
+      "query": "tag:#données_recherche",
+      "color": {
+        "a": 1,
+        "rgb": 7426784
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 2.38634765625,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 13.08203125,
+  "linkStrength": 0.370833333333333,
+  "linkDistance": 200,
+  "scale": 0.028449957731516082,
+  "close": false
+}

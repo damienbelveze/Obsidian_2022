@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "708d5bbaa6896de4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc7b25ce0f4f10c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "autoritarisme.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "134c1e920958446e",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e97ef5de6cbf38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be703ceb85ef043",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3082f8adc36ce157",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3b1dc0a6fd852ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "279a93f214b32337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "737669e0f15abd61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "autoritarisme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc7b25ce0f4f10c7",
+  "lastOpenFiles": [
+    "autoritarisme.md",
+    "authentification biométrique.md",
+    "articles scientifiques.md",
+    "afrofeminisme.md",
+    "agoraphobie.md",
+    "allocation de rentrée.md",
+    "Alexandre Douguine.md",
+    "Agnotologie.md"
+  ]
+}

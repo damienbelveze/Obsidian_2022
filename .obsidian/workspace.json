@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "778e7c9f32849657",
+    "type": "split",
+    "children": [
+      {
+        "id": "850456984e39567a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a2b8726f50e133",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "278d4e47738f0b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe92bfd0ca208b55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6c426f787464aed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19f2d5860fb037b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sensibilité",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "391a50e34cff4860",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfcb00fc3c3e1284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30f8df0045866bbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2291294617008882",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a04b7dbf0c7cbee8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "51a2b8726f50e133",
+  "lastOpenFiles": [
+    "Format Texte.md",
+    "autoritarisme.md",
+    "Curriculum Builder.md",
+    "cahiers numériques.md",
+    "pycnogonida.md",
+    "Spécificité vs sensibilité.md",
+    "Alexandre Douguine.md",
+    "alternumérisme.md",
+    "agorathéisme.md",
+    "allocation de rentrée.md"
+  ]
+}
