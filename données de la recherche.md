@@ -86,6 +86,10 @@ prendre en compte les limites des données, avant de les exploiter.
 
 Dans le cadre de la loi sur la République Numérique, le législateur a inscrit le fait de préempter les données de la recherche issues de financements publics pour éviter la captation de ces données par des opérateurs privés (comme ça a été le cas avec les publications). Le chercheur qui collecte des données n'a donc pas de propriétés sur elles. Le partage des données n'engage donc pas cette propriété. 
 
+# collecter des donnnées
+
+Sur les modes de collecte, voir l'article [[collecter des données]]
+
 ## données et perceptions
 
 ### séparation data / capta ("données / captées")

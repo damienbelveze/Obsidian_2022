@@ -1,0 +1,33 @@
+{
+  "token": "6879-4rUjESVcVqeJAXheAtbZV_YHawiia6q_gHL1Y6kGEUM",
+  "user": "acct:dbelveze@hypothes.is",
+  "highlightsFolder": "hypothesis",
+  "isConnected": true,
+  "template": "{% if is_new_article %}# {{title}}\n\n## source:\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #article{% endif %}\n\n{% if is_new_article -%}## Highlights{%- endif %}\n{% for highlight in highlights -%}- {{highlight.text}} — [Updated on {{highlight.updated}}]({{highlight.incontext}})\n{% if highlight.tags | length %}   - Tags: {% for tag in highlight.tags -%}#{{tag| replace(\" \", \"-\")}} {%- endfor %}{%- endif %}\n{% if highlight.annotation %}   - annotation: {{highlight.annotation}}{%- endif -%}{%- endfor -%}",
+  "syncOnBoot": true,
+  "dateTimeFormat": "YYYY-MM-DD",
+  "history": {
+    "totalArticles": 2,
+    "totalHighlights": 3
+  },
+  "syncedFiles": [
+    {
+      "filename": "Au Mexique, l’avion de mauvais augure du Président.md",
+      "uri": "https%3A%2F%2Fwww.liberation.fr%2Finternational%2Famerique%2Fau-mexique-lavion-de-mauvais-augure-du-president-20211127_NEPQAAZOARFGNCCFGFZR75SY7E%2F"
+    },
+    {
+      "filename": "Covid-19  la santé publique comme laboratoire du contrôle social - AOC media - Analyse Opinion Critique.md",
+      "uri": "https%3A%2F%2Faoc.media%2Fanalyse%2F2021%2F11%2F23%2Fcovid-19-la-sante-publique-comme-laboratoire-du-controle-social%2F"
+    }
+  ],
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    }
+  ],
+  "lastSyncDate": "2022-01-15T06:46:16.875Z"
+}

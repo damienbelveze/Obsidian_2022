@@ -33,3 +33,10 @@ de sorte qu'à l'avenir on n'aurai qu'à s'identifier en tapant :
 
 ssh nom du serveur + password
 
+# se créer une clé SSH pour son ordinateur avec Windows
+
+![](images/ssh_key.png)
+
+Source :  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+Ajouter la clé à Github :  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account

@@ -18,6 +18,16 @@ Un premier aspect du nouveau schéma de maintien de l'ordre est d'empêcher les 
 - soit en les enfermant à la sortie du métro dans des nasses [[@Lajeunesse-Levyencerclementmanifestations2022]]
 - soit en les arrêtant préventivement
 
+Ces mesures font partie d'une stratégie délibérée et violente de la répression des manifestations qui comporte les éléments suivants : 
+
+- arrêter préventivement les manifestants, puis les relâcher faute de preuves incriminantes
+- envoyer les gaz et les charges de CRS avant  même les débordements pour créer le désordre qui est censé déclencher l'intervention
+- confisquer aux manifestants du matériel de protection (collyres, casques, trousses de médicaments)
+- frapper des journalistes dans l'exercice de leur profession et les obliger à quitter le terrain
+- nier dans ce contexte la réalité des violences policières
+
+(voir [[autoritarisme]])
+
 # militarisation de la police
 
 - banalisation du recours à certaines armes non-létales comme les lanceurs de balle de défense

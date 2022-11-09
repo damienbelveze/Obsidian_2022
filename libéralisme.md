@@ -18,10 +18,19 @@ La constitution d'un prolétariat et d'institutions chargées de le représenter
 
 # Libéralisme et christianisme
 
+## une nouvelle conception de la propriété
+
+La Bible stipule que la Terre appartient d'abord à Dieu et de manière seulement transitoire aux hommes (Lévitique : "Vous ne vendrez pas la terre à perpétuité, car elle m'appartient". Le droit commun est dans une optique chrétienne le droit naturel auprès duquel la propriété privée fait figure d'exception. 
+D'après Gaël Giraud, c'est John Locke qui va renverser cette perspective en instituant un droit naturel à la propriété privée sur lequel le libéralisme va pouvoir se déployer[[@aeschimannGaelGiraudRelu2022]].
+
+> Bien qu'anglican, Locke opère un véritable coup de force contre la tradition chrétienne : avec lui, la propriété privée devient un droit naturel, un droit dont l'homme jouirait de par sa nature  humaine. Son argument consiste à dire que si vous travaillez dur, ce n'est que justice si le fruit de votre travail vous appartient en propre. L'imaginaire de la récompese de la souffrance au travail reste la justification de la propriété privée
+
+## le dépassement du mépris des richesses
+
 Le libéralisme à ses débuts, loin de s'associer à la partie la plus conservatrice de la société (clergé, aristocratie), remet en cause l'ordre établi et promeut les libertés publiques, l'émancipation de l'individu du joug de la tradition et de la religion. 
 Le libéralisme est au XVIII une valeur progressiste (chère à la partie gauche de l'assemblée révolutionnaire) qui progressivement va glisser à droite et être associée à des groupes de la population marqués par le conservatisme et la religion. 
 Pour Stéphane Foucart, la cause en est qu'à mesure que la religion catholique en France se dévitalise, la nouvelle religion du marché et de la monnaie s'y substitue, ce que Foucart nomme l'[[agorathéisme]] ([[@FoucartCommenteconomieest2020]])
-Citant les travaux d'[[Emmanuel Todd]] il rappelle comment l'apport de voixdes régions périphériques françaises où réside le [[catholocisme zombie]] a été déterminant pour obtenir un oui qu référendum pour la monnaie unique en France (traité de Maastricht)
+Citant les travaux d'[[Emmanuel Todd]] il rappelle comment l'apport de voix des régions périphériques françaises où réside le [[catholocisme zombie]] a été déterminant pour obtenir un oui qu référendum pour la monnaie unique en France (traité de Maastricht)
 
 Foucart fait encore remarquer qu'aux USA, pays où la religion chrétienne -dans sa version protestante- est grande, les valeurs promues et soutenues par une majorité du peuple, les lois et les institutions à savoir, l'enrichissement personnel, le confort matériel, mais aussi la loi du talion (dans l'application de la [[peine de mort]]) contredit de manière flagrante les valeurs chrétiennes que sont le mépris des richesses, le partage de celles-ci et l'octroi du pardon, et cela sans que personne ne relève la contradiction. Foucart explique qu'un dieu (le marché) et son clergé (les analystes financiers, les banquiers et les experts qui président aux politiques économiques) se sont substitués progressivement dans les affects populaires à la religion chrétienne, ce que dénonce par ailleurs le Pape François dans son texte "Laudate si"
 

@@ -7,5 +7,8 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "showFrontmatter": true,
+  "promptDelete": false
 }

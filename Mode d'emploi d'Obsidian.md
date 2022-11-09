@@ -1,4 +1,20 @@
 ---
+title: 
+author: 
+date: 
+tags: []
+aliases: []
+---
+
+---
+title: 
+author: 
+date: 
+tags: []
+aliases: []
+---
+
+---
 title: Comment utiliser Obsidian
 subtitle: formation doctorale
 author: Damien Belvèze

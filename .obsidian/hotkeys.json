@@ -87,5 +87,22 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-insert-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:modeles/modele_fiche.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F10"
+    }
   ]
 }

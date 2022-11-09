@@ -8,11 +8,75 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51a2b8726f50e133",
+            "id": "c7b9db2b1597499d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "collecter des données.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30e9418cb17fd474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modeles/modele_fiche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17af43ce701072c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modeles/modele_fiche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5c8dbbf03033b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modeles/modele_fiche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45c7d5cd9e1d6653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "illibéralisme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b29a3c2559260fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installer Debian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sensibilité",
+                "query": "file: données ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 415.5
   },
   "right": {
     "id": "391a50e34cff4860",
@@ -85,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "collecter des données.md"
+              }
             }
           },
           {
@@ -94,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "collecter des données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,20 +176,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "51a2b8726f50e133",
+  "active": "c7b9db2b1597499d",
   "lastOpenFiles": [
-    "Format Texte.md",
+    "données de la recherche.md",
+    "calcul informatique.md",
+    "architecture Von Neumann.md",
+    "modeles/modele_fiche.md",
+    "idéologie faussée.md",
+    "illibéralisme.md",
     "autoritarisme.md",
-    "Curriculum Builder.md",
-    "cahiers numériques.md",
-    "pycnogonida.md",
-    "Spécificité vs sensibilité.md",
-    "Alexandre Douguine.md",
-    "alternumérisme.md",
-    "agorathéisme.md",
-    "allocation de rentrée.md"
+    "répression des manifestations.md",
+    "libéralisme.md",
+    "nouvelle  note.md"
   ]
 }

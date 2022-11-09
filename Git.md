@@ -21,6 +21,8 @@ dans ce terminal, pour coller des expressions, utiliser la touche inser
 # gérer les fichiers d'un repo
 ## cloner un repo
 
+Le Ctrl+V ne fonctionne pas dans Git bash, on utilise Shift+Inser.  Les nouveaux ordis portables ont deux touches inser, la bonne est le 0 du clavier numérique (quand celui-ci est désactivé)
+
 télécharger le répertoire vide créé
 
 ``````git

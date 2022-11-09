@@ -11,7 +11,7 @@ tags: []
 ---
 
 
-Le principe de l'ordinateur est de regrouper les informations et les instructions pour traiter ces informations dans une mémoire et de séparer cette mémoire de l'unité de calcul.
+Le principe de l'ordinateur est de regrouper les informations et les instructions pour traiter ces informations dans une mémoire et de séparer cette mémoire de l'unité de [[calcul informatique]].
 
 architecture de la plupart des utilisateurs : 
 
