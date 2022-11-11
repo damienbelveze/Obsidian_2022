@@ -54,8 +54,12 @@ on peut citer des textes qu'on n'a pas lu pour complaire à un auteur ou au jour
 
 Ce sont les études concluantes qui drainent les citations, mais les études négatives et leur [[Negative data]] ont également de l'importance et peuvent faire gagner beaucoup de temps et de moyens à la communauté scientifique. Toutefois, comme personne ne les cite, elles ne sont pas publiées, comme elles ne sont pas publiées, elles sont ignorées. 
 
+4. Le comptage des citations confond ne distingue pas entre les différents types de citation
 
-Si le recours aux citations dans chaque texte est exigé de tous les chercheurs (un peu moins des plus anciens mais beaucoup plus des plus jeunes), les raisons pour lesquelles on cite ici et pas là restent obscure et échappent à la rationalisatione autant qu'à la standardisation. 
+On peut citer une étude pour pointer du doigt sa faiblesse ou son manque de méthode, cela compte tout de même au crédit de cette citation. C'est ainsi qu'en 2022, le Dr [[Didier Raoult]] était le chercheur le plus cité en France alors que les critiques se multipliaient à son encontre pour des manquements de méthode ou d'[[intégrité scientifique]]. On retrouve ici dans le monde académique quelque chose de comparable à ce qu'on observe dans les médias généralistes (voir [[agenda politique|agenda setting]]). Comme le dit Claire Sécail, "indépendamment de la façon dont on parle de la personne. Il n’y a pas de bad buzz". Il n'y a pas non plus (en 2022) de mauvaises citations, qu'elles soient nombreuses, c'est tout ce qui compte. 
+
+
+Si le recours aux citations dans chaque texte est exigé de tous les chercheurs (un peu moins des plus anciens mais beaucoup plus des plus jeunes), les raisons pour lesquelles on cite ici et pas là restent obscure et échappent à la rationalisation autant qu'à la standardisation. 
 
 >"The use of citations as a basis for value judgements implies that there is a universally recognized convention [on why to cite] among publishing scientists, but this convention is one which displays a marked resistance to standardization." 
 
@@ -95,7 +99,7 @@ Différentes manipulations peuvent affecter les citations d'un texte scientifiqu
 
 - **on se cite trop soi-même** pour gonfler le poids de ses citations. Selon John Ioannidis, 25% des citations de Didier Raoult sont des citations de ses propres travaux ou de ceux de ses co-auteurs[[@larousserieLancetgatePublierBeaucoup2020]].
 - **on cite trop ses co-auteurs** en espérant un retour d'ascenceur (voir exemple plus haut)
-- **on cite trop souvent des articles du journal dans lequel on souhaite être publié** en espérant que cela facilitera l'adoption du texte
+- **on cite trop souvent des articles du journal dans lequel on souhaite être publié** en espérant que cela facilitera l'adoption du texte (voir plus haut)
 
 Bien qu'on ne soit plus dans le domaine de la manipulation de la citation mais de la diversité des points de vue, il est important de citer des textes qui adoptent un autre point de vue ou une autre méthodologie que la sienne, afin que l'étude fasse preuve de diversité dans son approche. 
 

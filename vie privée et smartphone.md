@@ -16,6 +16,8 @@ installer Exodus Privacy depuis F-droid
 
 Dans Paramètres > Empreintes digitales et sécurité > Sources inconnues (autoriser l'installation d'applications provenant d'autres sources que Google) : passer en ON
 
+Ou bien 
+
 ouvrir un navigateur (Google Chrome par exemple)
 
 aller sur le site f-droid.org

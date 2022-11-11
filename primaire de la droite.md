@@ -11,7 +11,7 @@ tags: [capitalisme]
 ---
 
 confusion entre [[droite]] et Les Républicains. 
-Les Républicains sont loin de former le coeur de la droite qui s'étend de LREM à Zemmour. 
+Les Républicains sont loin de former le coeur de la droite qui s'étend de LREM à [[Eric Zemmour|Zemmour]]. 
 Les thèmes chéris de ces primaires sont traditionnellement le trop grand nombre d'immigrés et le trop grand nombre de [[fonctionnaires]]
 
 ![[primaire_droite.pdf]]
