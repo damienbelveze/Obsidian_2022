@@ -1,12 +1,15 @@
 ---
-title: Intérêts et limites du concept de "privilège blanc"
+title: privilège blanc
 subtitle:
+id: 202210181921_privilège blanc
 author: Damien Belvèze
-date: 20210214
+date: 18-10-2022
 link_citations: true
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
 aliases: [white privilege, whiteness, blanchité]
+tags: [sciences_politiques]
 ---
-#inégalités
 
 # naissance du concept
 
@@ -16,7 +19,7 @@ Les émeutes de 2005 suite à la mort de Zied et Bouna ont manifesté la [[racia
 
 En tant qu'hypothèse de recherche, le concept de privilège blanc, devrait donc permettre au moyen d'enquêtes sociologiques et de recueil d'observation sur le terrain d'identifier les moments ou les conditions où les personnes de couleur sont discriminées par rapport aux personnes blanches afin de mettre fin à ces discriminations. 
 
-On peut observer aussi du côté des personnes blanches une incapacité à observer le racisme là où il est parce que précisément ces personnes n'en seront pas les victimes. D'où pour ces personnes la nécessité de ne pas évaluer la portée d'un fait social à leur seule expérience.
+On peut observer aussi du côté des personnes blanches une incapacité à observer le [[racisme]] là où il est parce que précisément ces personnes n'en seront pas les victimes. D'où pour ces personnes la nécessité de ne pas évaluer la portée d'un fait social à leur seule expérience.
 
 Le concept de privilège blanc n'est pas fondé sur une essence (on est blanc ou noir), mais sur une construction sociale (on apprend à se conduire en personne blanche ou personne de couleur). De même, à la base, la blanchité n'est pas un concept essentialiste mais une construction sociale qu'il s'agit de [[Déconstruction|déconstruire]] avec les outils de la méthode sociologique ou le savoir historique. Toutefois, l'emploi de ces termes dans la société des années 2020, et notamment sous la plume d'essayistes comme [[Robin di Angelo]], auteur de Fragilité Blanche, remettent en cause ce postulat déconstructioniste et attache ces termes à des essences : en tant que personne blanche, on devra se repentir toute sa vie des privilèges attachés à sa couleur de peau. 
 
@@ -35,6 +38,13 @@ Cette binarité est aveugle à la question du contexte. Par exemple, une personn
 - Dans certaines situations, le privilège d'être un homme devient un désavantage quand on lui combine une propriété comme la couleur de peau. Dans les multiples contrôles au faciès des jeunes d'origine maghrébine ou africaine, le [[genre]] masculin ne constitue en aucun cas un privilège bien au contraire. Cette combinaison de variables et leur impact sur les individus sont mis en évidence par la méthode [[intersectionalité|intersectionnelle]](source : [[@Gauvrittetesbienfaites2019]], note de bas de page 239)
 
 Enfin cette binarité a tendance à figer les acteurs dans des groupes constitués à partir de caractères visibles comme la couleur de peau et à sédimenter et pétrifier ces catégories que la notion de privilège blanc entendait au départ [[Déconstruction|déconstruire]]. 
+
+cette auto-réification sur fonds de réappropriation de l'identité jugée discriminée se retrouve également dans des discours populistes d'extrême droite, comme le note Eva Illouz à propos des Séfarades ("Mizrahim") que les leaders d'extrême droite recrutent en rappelant à quel point ces derniers ont été discriminés depuis leur arrivée en Israël par les Ashkénazes : 
+
+> La discrimination assigne l'autre à une identité figée, et la fière réappropriation de cette même identité contribue en réalité à la figer plus encore, à perpétuer de façon très ironique l'auto-réification dont les auteurs de ces discriminations furent à l'origine. 
+
+(Source : [[@illouzEmotionsContreDemocratie2022]], p169)
+
 
 Pour l'écrivain Thomas Chatwill, certaines personnes noires ont de la nostalgie pour la ségrégation parce que le fait de se définir par sa race permet de ne pas avoir à se chercher une [[identité]] plus complexe et d'autres valeurs. Cela fige la quête identitaire à des attributs simples et surtout réducteurs : 
 

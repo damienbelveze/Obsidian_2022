@@ -18,7 +18,7 @@ Terme employé par Eugène Pottier (auteur de l'Internationale) pendant la Commu
 
 ([[@FoesselQuartierrougeplaisir2022]], p197)
 
-Le luxe communal devait au départ prendre pour socle une éducation gratuite, laïque et obligatoire pour tout.e.s (la Commune l'a institué avant la République) pour une éducation intégrale qui associe les travaux manuels, intellectuels et artistiques.
+Le luxe communal devait au départ prendre pour socle une éducation gratuite, [[laïcité|laïque]] et obligatoire pour tout.e.s (la Commune l'a institué avant la République) pour une éducation intégrale qui associe les travaux manuels, intellectuels et artistiques.
 
 # ...au luxe dans une société communiste
 

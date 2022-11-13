@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasoir d'Ockham.md",
+                "file": "Etat profond.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ockam",
+                "query": "\"Etat profond",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasoir d'Ockham.md"
+                "file": "Etat profond.md"
               }
             }
           },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasoir d'Ockham.md",
+                "file": "Etat profond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "9169505f0e8db1b5",
   "lastOpenFiles": [
-    "Citation.md",
-    "agenda politique.md",
-    "vérité et vérifiabilité.md",
-    "primaire de la droite.md",
-    "factualité.md",
-    "argument ad hominem.md",
-    "Eric Zemmour.md",
-    "vie privée et smartphone.md",
-    "smartphone et vie privée.md",
-    "collecter des données.md"
+    "Etat.md",
+    "idéologie faussée.md",
+    "universalisme.md",
+    "économie néo-libérale.md",
+    "agorathéisme.md",
+    "privilège blanc.md",
+    "priming.md",
+    "racisme.md",
+    "ressentiment.md",
+    "populisme.md"
   ]
 }

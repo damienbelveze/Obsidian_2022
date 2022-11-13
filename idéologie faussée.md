@@ -20,6 +20,15 @@ Dans les années 60, Theodor W. Adorno avait déjà remarqué que la bourgeoisie
 
 (Source: Eva Illouz  [[@illouzEmotionsContreDemocratie2022]])
 
+Dans le même ouvrage, Eva Illouz montre qu'en raison des discriminations qu'ils ont subies de la part des Ashkénazes, les Séfarades ont nourri un ressentiment qui a été exploité continument par les tenants de la ligne dure (extrême droite israëlienne et Likoud aux mains de Netanyahou). Ces derniers n'ont pas eu de mots assez durs à l'encontre de l'élite ashkénaze, les "dominants" qui empêchent le peuple d'accéder aux postes à responsabilité et maitiennent les juifs issus des pays nord-africains dans un statut subalterne et souvent miséreux. 
+Pour autant cette ligne dure n'a cessé d'appliquer des politiques [[économie néo-libérale|néo-libérales]] (fin de l'impôt progressif, protection du droit d'héritage, réduction des dépenses publiques et des prestations sociales) qui ont augmenté les privilèges des Ashkénazes et maintenu l'électorat du Likoud, les Séfarades dans des difficultés économiques récurrentes.
+
+( Source: Eva Illouz [[@illouzEmotionsContreDemocratie2022]], p174)
+
+Dans cette optique, Eva Illouz identifie le [[ressentiment]] comme un puissant moteur pour les idéologies faussées puisque ceux qui font leur ce ressentiment renoncent à des intérêts économiques pour obtenir des vengeances symboliques ( ibid. p179)
+
+
+
 
 
 

@@ -9,7 +9,7 @@ aliases: [islamophobie, islamophobe, islamophobes]
 
 Terme forgé pour désigner les discriminations dont seraient victimes les personnes ayant l'Islam pour religion. 
 
-Certains sociologues comme François Herran, Oriane Sarrasin, Eleonore Lépinard tentent de mesurer les discriminations réelles auxquelles sont sujets les personnes qui ont un prénom musulman (pour les distinguer par exemple des personnes qui ont un nom africain et un prénom non connoté - ces derniers ne seraient victimes que de racisme), d'autres disent que les discriminations seraient avant tout racistes et non liées à une religion. 
+Certains sociologues comme François Herran, Oriane Sarrasin, Eleonore Lépinard tentent de mesurer les discriminations réelles auxquelles sont sujets les personnes qui ont un prénom musulman (pour les distinguer par exemple des personnes qui ont un nom africain et un prénom non connoté - ces derniers ne seraient victimes que de [[racisme]]), d'autres disent que les discriminations seraient avant tout racistes et non liées à une religion. 
 
 # L'islamophobie associée au racisme
 

@@ -78,6 +78,15 @@ Richard Rorty, Contingency, irony and solidarity, Cambridge University Press
 David Barral,
 
 
+## L'universalisme associé aux dominants
+
+En Israël, l'extrême droite associe l'universalisme à la position des dominants, position destinée selon elle à maintenir cette domination sur les populations qu'elle prétend représenter (en l'occurrence les Séfarades ou Mizrahim), face aux Ashkénazes, l'élite "de gauche", universaliste et tenant du respect des Droits de l'Homme. 
+
+Source : [[@illouzEmotionsContreDemocratie2022]], p179
+
+
+
+
 # universalisme et incarnation
 
 Une partie du féminisme est inspirée par les idées universalistes. L'universalisme a fait progresser bon nombre de causes depuis la décolonisation. Toutefois, certaines militantes féministes ne sont pas d'accord avec le fait qu'"un homme sur deux est une femme" et critiquent cette dimension universaliste de leur combat comme pouvant masquer ce que leur expérience en tant que femmes a de radicalement différent, par rapport au fait d'être un homme. La chercheuse [[Camille Froidevaux-Metterie]], notamment avance que si le premier temps de la conquête des femmes à disposer de leur personne s'est jouée sur le terrain des droits, le second temps doit se jouer sur celui de l'intimité (sexualité, procréation, normes corporelles) où précisément le droit ne s'exprime pas. 

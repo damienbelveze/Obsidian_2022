@@ -38,7 +38,7 @@ C'est dans ce contexte que certains penseurs ont vu un lien entre ce corpus de d
 C'est le cas notamment de Pierre-André Taguieff qui, à l'occasion d'un colloque en janvier 2022 sur le wokisme[^1],a écrit que "du pédantisme déconstructionniste est né ce monstre qu'est le wokisme[[@taguieffPierreAndreTaguieffPedantisme2022]]"
 
 
-P-A Taguieff entend montrer que la déconstruction n'est pas un concept précis et qu'elle recouvre des pratiques critiques uniquement centrées sur la destruction des valeurs occidentales qui sont supposées porter en leur sein les éléments du racisme et du sexisme :
+P-A Taguieff entend montrer que la déconstruction n'est pas un concept précis et qu'elle recouvre des pratiques critiques uniquement centrées sur la destruction des valeurs occidentales qui sont supposées porter en leur sein les éléments du [[racisme]] et du sexisme :
 
 >Le mot d'ordre des déconstructeurs est simple : tout peut et doit être déconstruit. Mais il est trompeur, car seule la culture occidentale fait l'objet d'une déconstruction systématique. Il n'est pas question, par exemple, de déconstruire le «ressenti» victimaire des catégories sociales dites minoritaires, dominées ou racisées. Criminalisé et diabolisé dans toutes ses composantes, le monde occidental est voué à être démoli, mis en pièces, pour être remplacé par un monde meilleur qui n'est guère défini que par la négation de tout ce qu'est l'Occident aux yeux de ses ennemis
 

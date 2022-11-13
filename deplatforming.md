@@ -14,7 +14,7 @@ tags: [censure, université]
 Désigne le fait pour une ou plusieurs associations d'étudiants d'intervenir de manière bruyante dans un débat pour l'annuler (cf. [[Cancel culture]]). 
 Il y a une controverse autour de la légitimité de telles pratiques. 
 D'un côté ses défenseurs indiquent que la nature des débats "déplatformés" ne sont pas de niveau universitaire mais prennent de l'importance en ayant lieu au sein de l 'université.
-De l'autre, on en appelle à la liberté d'expression qui n'est censée être limitée que pour le bien commun et à travers la lieu. Personne n'a le droit dans un lieu public de pratiquer une censure privée et de substituer à l'Etat pour décider si un débat peut avoir lieu ou pas. 
+De l'autre, on en appelle à la [[liberté d'expression]] qui n'est censée être limitée que pour le bien commun et à travers la lieu. Personne n'a le droit dans un lieu public de pratiquer une censure privée et de substituer à l'Etat pour décider si un débat peut avoir lieu ou pas. 
 
 >La réponse de Jean Bricmont met sans cesse sur le même plan le deplatforming (le fait pour des militants de chahuter ou d’interrompre une conférence [1]) et la censure d’État. Il écrit notamment : « Mais si c’est si mal de “suspendre les libertés publiques qui rendent la liberté d’expression possible” alors pourquoi applaudir quand on cherche à annuler des conférences dans des universités ? ».
 

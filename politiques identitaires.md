@@ -11,7 +11,7 @@ tags: [identité]
 ---
 
 
-Une politique identitaire est une politique qui vise à réparer des injustices subies par une minorité (juifs, arabes, noirs, femmes, hispanos, homosexuels, transexuels, etc.). Comme l'[[identitarisme]] dont elles proviennent, elles visent à assigner des individus à des attributs (couleur de peau, orientation sexuelle) et à prendre la partie pour le tout, de manière inverse par rapport aux discrimations racistes, sexistes et hétérosexistes. 
+Une politique identitaire est une politique qui vise à réparer des injustices subies par une minorité (juifs, arabes, noirs, femmes, hispanos, homosexuels, transexuels, etc.). Comme l'[[identitarisme]] dont elles proviennent, elles visent à assigner des individus à des attributs (couleur de peau, orientation sexuelle) et à prendre la partie pour le tout, de manière inverse par rapport aux discrimations [[racisme|racistes]], sexistes et hétérosexistes. 
 
 Les politiques identitaires se superposent et parfois prennent le pas sur les politiques sociales, lorsque les questions relatives à la race par exemple occupent une place médiatique qui est enlevée à la question de la [[justice sociale]]
 D'après plusieurs penseurs, c'est ce qui se passe depuis deux décennies aux USA et désormais en France à la faveur d'une [[Americanisation]] de nos modes de vie.

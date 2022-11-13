@@ -14,7 +14,7 @@ assignation d'un individu à une identité le plus souvent réduite à un attrib
 
 L'identitarisme refuse de voir les personnes comme composites, douées d'[[identité|identités]] hybrides, plurielles et ouvertes. 
 
-L'identitarisme nourrit à la fois le racisme à droite et à [[gauche]] les [[politiques identitaires]]
+L'identitarisme nourrit à la fois le [[racisme]] à droite et à [[gauche]] les [[politiques identitaires]]
 
 
 

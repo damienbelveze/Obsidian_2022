@@ -15,7 +15,7 @@ L'émancipation sociale est le vrai programme de la Gauche. Elle est héritière
 Elle a pour contraires et ennemis :
 
 - le capitalisme
-- les différents modes de [[domination]] (racisme, sexisme, hétérosexisme, [[identitarisme]])
+- les différents modes de [[domination]] ([[racisme]], sexisme, hétérosexisme, [[identitarisme]])
 - la [[prolétarisation]] des savoirs (le transfert des savoirs des individus vers les machines)
 
 L'appropriation du pouvoir d'agir nécessite trois composantes essentielles : 

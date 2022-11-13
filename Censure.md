@@ -51,7 +51,7 @@ La sociologue [[Nathalie Heinich]] dénonce cette troisième glaciation dans un 
 
 # la censure au nom de l'anti-wokisme
 
-La gauche radicale donne régulièrement des raisons à la droite de crier aux atteintes en matière de liberté d'expression (voir [[Cancel culture]]. )
+La gauche radicale donne régulièrement des raisons à la droite de crier aux atteintes en matière de [[liberté d'expression]] (voir [[Cancel culture]]. )
 Pour autant, la droite conservatrice opère une censure tantôt insidieuse, parfois très explicite en Amérique du Nord : des livres sont bannis des bibliothèques, des bibliothécaires sont inquiétés et menacés dans leur poste en raison des ouvrages qu'ils ou elles acquièrent. Des associations de parents d'élèves portent plainte contre des enseignants qui remettent en cause la naturalité des genres.
 Alain Deneault, dans son ouvrage Moeurs, paru en 2022, donne quelques exemples de cette censure et des poursuites à l'encontre d'auteurs et d'universitaires dont les vues contredisent la morale conservatrice. : Daniel Weinstock au Canada ([[@deneaultMoeursGaucheCannibale2022]], p190)
 
