@@ -13,6 +13,7 @@ tags: [écrit_scientifique]
 
 # Qu'est-ce qu'une revue de littérature ? 
 
+![](images/time_review.jpg)
 Autrement appelée Etat de l'art dans une thèse par exemple, cet exercice académique, parcours presque obligé consiste à faire l'état de la littérature sur une question avant d'aller plus loin. Dans le domaine de la santé, cette revue de littérature peut prendre la forme d'une [[revue narrative]], d'une [[revue systématique]] ou bien si on combine les chiffres des études en plus de leurs principales conclusions une [[méta-analyse]]
 
 # Le processus d'une revue de littérature 

@@ -45,7 +45,7 @@ Test de la solution PRISM dans différents laboratoires
 
 ![PRISM](images/notebook.png)
 
-PRISM permet de conserver une version numérique de notes manuscrites sur le papier (couplé à un OCR).
+PRISM permet de conserver une version numérique de notes manuscrites sur le papier (couplé à un [[OCR]]).
 
 intégration de pages web
 intégration de flux ([[mails]])
