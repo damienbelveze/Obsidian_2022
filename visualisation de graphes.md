@@ -19,7 +19,7 @@ Web of science -> export en RIS.
 
 ![](arango_graphe.png)
 
-co-autorat : le graphe fait ressortir les auteurs qui ont publié ensemble
+[[co-autorat]] : le graphe fait ressortir les auteurs qui ont publié ensemble
 co-occurrence : le graphe fait ressortir les auteurs qui apparaissent ensemble dans le texte
 co-citation (voir [[Compléter une revue de littérature#Cocites trouver des articles co-cités|Co-cites]]) : le graphe fait ressortir les auteurs qui apparaissent ensemble dans la citation
 

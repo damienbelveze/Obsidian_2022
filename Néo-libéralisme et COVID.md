@@ -46,7 +46,7 @@ une étude de l'INSEE parue le 3 novembre et [relayée par le journal Le Monde d
 D'après cette étude, il n'y a pas plus de personnes sous le [[seuil de pauvreté et seuil de richesse]] qu'en 2019. D'après cette étude les inégalités n'auraient pas non plus augmenté. 
 
 [[biais de l'étude]]
-L'étude porte toutefois sur des ménages ordinaires (95%) de la population et exclut les personnes vivant en collectivité ou en communauté (EHPAD, étudiants, casernes, prisons) ainsi que les personnes sans domicile fixe (1,4 millions de personnes au total)
+L'étude porte toutefois sur des ménages ordinaires (95%) de la population et exclut les personnes vivant en collectivité ou en communauté (EHPAD, étudiants, casernes, prisons) ainsi que les personnes sans [[domicile]] fixe (1,4 millions de personnes au total)
 
 La chute dans la pauvreté a surtout touché les étudiants, les petits boulots ayant disparu pendant le COVID. 
 Par ailleurs on peut observer (chiffre de l'INSEE) une tendance qui contredit ces résultats : le recours à l'aide alimentaire aurait bondi de 11% dans cette période.

@@ -72,7 +72,7 @@ Réserves vis à vis de ce MOOC : tout est en distanciel, ce qui n'est pas très
 Imaginer des futurs désirables doit également se faire dans une co-présence. 
 La transition écologique est quelque chose de très sensible économiquement ou politiquement. 
 Cela doit être le moment de développer l'esprit critique des étudiants. voir articulation avec les enseignements de philo.
-Equilibre délicat de l'hybridation : il faut un moment revenir sur le terrain.
+Equilibre délicat de l'[[hybridation]] : il faut un moment revenir sur le terrain.
 
 Régis Supper (station biologique de Paimpont)
 Comment on se sert du terrain pour se sensibiliser à ces enjeux écologiques. Ces stations sont des lieux privilégiés pour faire le lien entre des chercheurs, des étudiants, des savoir-faire locaux et le milieu naturel.

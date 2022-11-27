@@ -27,7 +27,7 @@ Pour Lévi-Strauss, la guerre survient là où l'échange faillit. Au contraire 
 
 sachant que l'idéal d'[[autarcie]] est en fait ce que poursuivent selon Pierre Clastres les sociétés primitives. 
 
-Pour Pierre Clastres, ce n'est pas la guerre qui est un raté de l'échange, comme le présente Claude Levi-Strauss mais l'échange qui est une nécessité de la guerre, y compris l'échange de femmes qui permet de compter de nouveaux alliés parmi ses beaux-frères.
+Pour Pierre Clastres, ce n'est pas la [[guerre]] qui est un raté de l'échange, comme le présente Claude Levi-Strauss mais l'échange qui est une nécessité de la guerre, y compris l'échange de femmes qui permet de compter de nouveaux alliés parmi ses beaux-frères.
 
 
 

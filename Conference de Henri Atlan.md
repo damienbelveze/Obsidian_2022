@@ -198,7 +198,7 @@ physiologie (plaisir / douleur -> bon / mal) Deuxième niveau : les
 capacités cognitives propres à l'expérience humaine s'emparent de ces
 sensations et les délocalisent chez d'autres individus ou dans le passé
 ou le futur. comportements sociaux constitués de stratégies vis à vis de
-la douleur et du désir constituées par l'éducation.
+la douleur et du désir constituées par l'[[éducation]].
 
 universel construit pas à pas dans des situations particulières :
 méthode de l'éthique des sciences

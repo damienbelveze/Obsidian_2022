@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [carnets de laboratoire, cahiers de laboratoire, bloc-code, block-codes, ELN, electronic laboratory notebook]
-tags: [méthode_scientifique, programmation]
+tags: [méthode_scientifique, programmation, cocopy, science_ouverte]
 ---
 
 A partir de la présentation d'Aurélien Tabard [[@TabardOSW2021Cahiersnumeriques2021]]
@@ -193,5 +193,42 @@ Jupyter est devenu un standard dans le domaine du notebook.
 
 Jupyter utilisé pour la recherche mais aussi pour l'enseignement de Python. 
 
+[Librarie Python](https://github.com/medialab/ipysigma) pour faire un réseau dans un carnet de labo numérique 
+
+
+# jupyter notebook
+naissance de Ipyter en 2012 (en ligne de commande seulement)
+Possibilité d'interfacer dans un même logiciel les données et les visualisations. 
+
+![](jupyter_notebook.PNG)
+
+Quand on fait un Notebook on est sûr que l'image obtenue est en relation avec le code entré. 
+Possibilité d'interagir avec le lecteur. 
+Apprendre à bien utiliser les raccourcis-clavier, réduire au maximum la friction que le logiciel donne pour faire de la science. 
+Jupyter Notebook permet de décrire ce qu'on fait, mais aussi de décrire ce qu'on obtient. 
+Rendre la publication beaucoup plus facile. 
+Penser à paramétrer le notebook avec une variable qui comportera toujours un fichier. 
+
+![](bonnes_pratiques_jupyter.PNG)
+
+Premiers pas vers la [[science ouverte]] dès le première connexion. On peut avoir les premiers retours des lecteurs sur le github. 
+Rendre le code public en lien avec les données. 
+
+Publier le notebook sur une plateforme comme Binder : possibilité d'aller lancer le code sur Binder qui a découvert les ondes gravitationnelles. 
+
+![](notebook_scripts.PNG)
+
+Les personnes qui développent Python sont souvent des experts en [[données de la recherche|données de recherche]]. Une des rares bibliothèques qui a été créée par des professionnels non scientifiques est Panda (personnels de la finance)
+
+Binder est éphémère, permet de déployer Jupyter sur un serveur central. 
+Possibilité de transformer des notebooks en [dashboards](https://www.stat4decision.com/fr/voila-dashboards-a-partir-de-vos-jupyter-notebooks/)pour que l'utilisateur n'ait plus qu'à entrer ses données pour qu'elles soient traitées. 
+
+https://jupyterlite.readthedocs.io/en/latest/_static/lab/?path=intro.ipynb
+jupyterlite = python et jupyter dans le navigateur, sans serveur : c'est le navigateur qui assemble. Mais cela ne fonctionne pas avec le machine learning. 
+
+git gestionnaire de versions qui permet de prendre des snapshots de votre code et permet de sauvegarder et partager.
+Une fois que vous utilisez Git, aller dans Github ou Gitlab pour collaborer avec des robots ou des humains. 
+Grand nombre d'outils qui vont faire des corrections automatiques (black : correction automatisée)
+Github action pour la [[reproductibilité|reproducible]].
 
 # Bibliographie

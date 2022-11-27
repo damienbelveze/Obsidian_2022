@@ -12,7 +12,7 @@ tags: [sciences_politiques]
 
 # Hobbes et l'institution de l'Etat
 
-Hobbes reconstruit de façon théorique la naissance de l'Etat en imaginant ce qui lui préexistait : la guerre de tous contre tous. Or cet état de guerre généralisée n'a jamais existé. 
+Hobbes reconstruit de façon théorique la naissance de l'Etat en imaginant ce qui lui préexistait : la guerre de tous contre tous. Or cet état de [[guerre]] généralisée n'a jamais existé. 
 Comme le montre Pierre Clastres, les sociétés primitives sont des sociétés qui ont su préserver un mode de vie communautaire sans classe et sans division entre dominants et dominés, entre exploiteurs et exploités, entre maîtres et sujets. Les chefs n'y sont que les porte-parole de la communauté et ne donnent pas force à leur volonté propre
 
 Si les communautés sont en guerre entre elles, c'est pour éviter que les [[échange|échanges]] avec d'autres communautés ne favorisent l'apparition de personnes mieux dotées au sein de ces communautés. Mais ces guerres ne sont pas systématiques dans la mesure où selon Pierre Clastres, il en irait de même que pour l'échange généralisé. 

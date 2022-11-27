@@ -43,7 +43,7 @@ Note : ce réseau moral est-il bien le propre des classes moyennes, les hackers 
 
 # épistémologie visuelle
 
-D'après Arthur Perret, des outils comme Obsidian qui permettent une prise de notes en réseau favorise des rapprochements constructifs d'idées. Arthur Perret mentionne la sérendipité mais fait aussi allusion au concept d'émergence informationnelle [[@perretEmergenceInformationnelleInformation2022]]
+D'après [[Arthur Perret]], des outils comme Obsidian qui permettent une prise de notes en réseau favorise des rapprochements constructifs d'idées. Arthur Perret mentionne la sérendipité mais fait aussi allusion au concept d'émergence informationnelle [[@perretEmergenceInformationnelleInformation2022]]
 
 > La sérendipité intervient lorsqu’on fait une découverte inattendue et qu’on décide d’en faire quelque chose. Cela ne relève pas tellement du hasard plutôt que des « idées non cherchées
 

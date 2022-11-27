@@ -7,6 +7,15 @@ alias: [GDPR, Réglement Général sur la Protection des Données]
 ---
 
 
-# RGPD SCD Rennes 1
+# cookies
+
+## Koha
 
 anonymisation des transactions avec Koha (voir http://koha-fr.org/kohala/wp-content/uploads/2021/01/devRGPD.pdf)
+
+## Ebsco
+
+
+## ezproxy 
+
+identifiant@nomdedomaine.fr de l'étudiant conservé pendant 90 jours dans les logs récupérés par Ezproxy (Graylog), accessibles aux administrateur d'Ezproxy (contact : Vincent Repain ticket 261684)

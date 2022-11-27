@@ -14,7 +14,7 @@ tags: [sciences_politiques, guerre]
 Le terrorisme consiste à perpétrer des actes de violence pour impressionner et manipuler une population civile soit dans le sens d'une soumission, soit dans celui de la radicalisation contre un ennemi intérieur (voir stratégie de la tension dans les années 60 en Italie)
 
 # Terrorisme et guerres asymétriques
-Le terrorisme est souvent assimilé aux guerres asymétriques comme la réponse de factions qui n'ont pas les moyens d'attaquer frontalement un Etat. 
+Le terrorisme est souvent assimilé aux [[guerres asymétriques]] comme la réponse de factions qui n'ont pas les moyens d'attaquer frontalement un Etat. 
 Cette définition restrictive est entretenue par les Etats qui ont des volontés expansionnistes pour éviter qu'on qualifie les agissements de leurs armées comme des actes de terrorisme à l'égard de la population civile, ce qu'elles sont en réalité. 
 
 Le terrorisme perpétré par des Etats à l'égard de populations qu'on cherche à soumettre sont pourtant innombrables et souvent plus conséquentes en nombre de victimes que ce que peut réaliser le terrorisme artisanal des groupes terroristes non étatiques [[@petersonDeniRealiteSteven2022]], p67. 

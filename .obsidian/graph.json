@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 6443744
       }
+    },
+    {
+      "query": "tag:écriture_scientifique",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "intégrité_scientifique",
+      "color": {
+        "a": 1,
+        "rgb": 9166930
+      }
     }
   ],
   "collapse-display": true,
@@ -54,5 +68,5 @@
   "linkStrength": 1,
   "linkDistance": 277,
   "scale": 0.110352593021122,
-  "close": true
+  "close": false
 }

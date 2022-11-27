@@ -20,7 +20,7 @@ moment d'inversion complète des valeurs où tuer devient non seulement légal m
 
 ### l'homme agresseur par sa nature biologique ?
 
-Pour André Leroi-Gourhan, la guerre est un doublet de la chasse. L'agression pour l'acquisition de biens consommables devient par extension agression contre d'autres humains pour la maîtrise du territoire. La guerre pour Leroi-Gourhan est une "chasse à l'homme" et se fait au moyen de techniques propres à la chasse mais détournées vers une autre fin. 
+Pour André Leroi-Gourhan, la [[guerre]] est un doublet de la chasse. L'agression pour l'acquisition de biens consommables devient par extension agression contre d'autres humains pour la maîtrise du territoire. La guerre pour Leroi-Gourhan est une "chasse à l'homme" et se fait au moyen de techniques propres à la chasse mais détournées vers une autre fin. 
 
 En 1977, Pierre Clastres dans Archélogie de la violence[[@clastresArcheologieViolenceGuerre2005]] remettait en cause cette inteprétration en faisant remarquer qu'entre l'agression contre le vivant pour la nourriture et l'agression contre d'autres humains les fins sont en effet radicalement différentes. Mêmes les peuples cannibales ne font pas d'abord la guerre pour dévorer des ennemis. Pierre Clastres considère donc que la guerre n'est pas issue de la nature même de l'homme, comme être agressif depuis l'australopithèque, mais remplit au contraire une fonction sociale et non biologique, dérive d'une culture, y compris chez les peuples dits primitifs.
 

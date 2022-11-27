@@ -84,7 +84,7 @@ arborescence ou horizontalité ?
 
 - nécessaire dans un index imprimé, il devient facultatif dans le monde numérique
 - les logiciels permettent de renommer des notes sans que les liens vers ces notes soient rompus
-- Ces identifiants sont pourtant, selon Arthur Perret, le gage d'une véritable pérennité de nos notes
+- Ces identifiants sont pourtant, selon [[Arthur Perret]], le gage d'une véritable pérennité de nos notes
 	
 ---
 

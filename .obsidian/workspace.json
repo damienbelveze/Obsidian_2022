@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kraken.md",
+                "file": "Zotero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6f12c5dc89e1c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOL, une affaire sérieuse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbecdc2dd121108d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bee29bebaca32cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ce284f8baf5c71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "éco-malthusianisme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kraken",
+                "query": "sonal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 202.5
   },
   "right": {
     "id": "391a50e34cff4860",
@@ -89,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kraken.md"
+                "file": "Sonal.md"
               }
             }
           },
@@ -99,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kraken.md",
+                "file": "Sonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +161,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9169505f0e8db1b5",
+  "active": "cbecdc2dd121108d",
   "lastOpenFiles": [
-    "faire une revue de littérature avec Zotero.md",
-    "revue de littérature.md",
-    "kraken.md",
-    "OCR.md",
-    "cahiers numériques.md",
-    "Etat profond.md",
-    "Etat.md",
-    "idéologie faussée.md",
-    "universalisme.md",
-    "économie néo-libérale.md"
+    "transcriptions d'entretiens.md",
+    "formation_doctorale_PGD_Angers.md",
+    "Sonal.md",
+    "LOL, une affaire sérieuse.md",
+    "éducation.md",
+    "Conference de Henri Atlan.md",
+    "logiciel libre.md",
+    "critique du logiciel libre.md",
+    "Communs.md",
+    "Zotero.md"
   ]
 }

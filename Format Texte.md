@@ -28,8 +28,7 @@ texte > quiz = text2quiz
 
 # Utiliser le texte simple quand ses collègues utilisent des traitements de texte
 
-Voir billet d'[Arthur Perret du 25 octobre 2022](https://www.arthurperret.fr/blog/2022-10-25-markdown-traitement-de-texte-methode-pour-collaborer.html)
-
+Voir le[billet du 25 octobre 2022](https://www.arthurperret.fr/blog/2022-10-25-markdown-traitement-de-texte-methode-pour-collaborer.html)d'[[Arthur Perret]]
 
 # bibliographie
 

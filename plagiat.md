@@ -1,14 +1,16 @@
-----
+---
 title: plagiat
 subtitle:
+id: 202210182009_plagiat
 author: Damien Belvèze
-date: 26-01-2022
+date: 18-10-2022
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
-aliases: [plagiarism, plagiaire, plagiaires, plagier]
-tags: [intégrité scientifique]
+aliases: []
+tags: [intégrité_scientifique, écriture_scientifique]
 ---
+
 
 # philosophie et anthropologie du plagiat
 
@@ -29,6 +31,10 @@ Selon Harold Bloom, le plagiat est aussi l'art des poètes qui recyclent les par
 >Dans une enquête sur l’expérience doctorale effectuée auprès de plus de 11 500 doctorants, 15 % des personnes interrogées se disent insatisfaites ou très insatisfaites de la manière dont leur directeur veille à ce que leurs travaux soient bien crédités 
 
 (source: [[@AliceRaybaudPlagiatvolappropriation2022]])
+
+
+![](images/plagiat_P8.PNG)
+
 
 ![tweet Pouyllau](tweet_pouyllau.png)
 

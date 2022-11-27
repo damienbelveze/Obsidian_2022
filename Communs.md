@@ -5,7 +5,7 @@ author: Damien Belvèze
 date: 06/09/2021
 link_citations: true
 biblio_style: csl/ieee.csl
-aliases: []
+aliases: [bien commun, biens communs]
 tags: []
 ---
 

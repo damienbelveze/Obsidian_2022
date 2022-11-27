@@ -61,7 +61,7 @@ Le passage par l'écriture facilite non seulement l'apprentissage mais aussi la 
 
 Il est donc important de restreindre les citations aux passage où l'auteur résume sa pensée de manière particulièrement marquante. 
 
-En reliant entre elles ces notes prises au fil de l'eau à la faveur de lectures, Obsidian permet de structurer sa pensée et peut éventuellement amener à des rapprochements inédits entre des concepts qui sont en relation au départ avec des contextes différents (valeur heuristique de ces graphes de notes), c'est l'"émergence informationnelle (information surfacing)" que l'outil peut apporter -un concept en lien avec la [[sérendipité]]- (le concept est d'Arthur Perret[[@perretEmergenceInformationnelleInformation2022]])
+En reliant entre elles ces notes prises au fil de l'eau à la faveur de lectures, Obsidian permet de structurer sa pensée et peut éventuellement amener à des rapprochements inédits entre des concepts qui sont en relation au départ avec des contextes différents (valeur heuristique de ces graphes de notes), c'est l'"émergence informationnelle (information surfacing)" que l'outil peut apporter -un concept en lien avec la [[sérendipité]]- (le concept est d'[[Arthur Perret]][[@perretEmergenceInformationnelleInformation2022]])
 L'information qui va permettre d'être productif arrive à la conscience sans avoir été sollicitée.
 
 ### productivité

@@ -27,7 +27,7 @@ taxonomie
 
 Examen du code : une photo et un QCM (choix entre plusieurs réactions possibles à partir d'une situation) : ce n'est pas que de la reconnaissance, c'est aussi de l'évaluation (évaluation de la situation)
 
-
+[[Taxonomie-de-Bloom.pdf]]
 
 # bibliographie
 

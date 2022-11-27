@@ -365,6 +365,12 @@ Pour extraire les dossiers d'une archive :
 tar -xvf nomdufichier.tar.gz
 ````
 
+même chose pour les packages en tar.bz2 : 
+
+````shell
+tar -xvf nomdufichier.tar.bz2
+````
+
 Si l'application se présente directement sous l'apparence d'un paquet debian (.deb)
 
 ````shell

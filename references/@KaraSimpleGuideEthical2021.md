@@ -1,5 +1,5 @@
 auteurs: Helen Kara, 
-titre: A Simple Guide to Ethical Co-Authorship
+titre: A Simple Guide to Ethical [[co-autorat|Co-Authorship]]
 publication:, 
 année: 2021, 
 p.,

@@ -42,7 +42,7 @@ PGD: organisation du fichier
 
 règles de nommage des fichiers
 
-stockage des transcriptions à long terme (pas de cloud accessible à tous, pas de clé USB) confidentialité : accès par mots clé
+stockage des fichiers de [[transcriptions d'entretiens]] à long terme (pas de cloud accessible à tous, pas de clé USB) confidentialité : accès par mots clé
 
 
 

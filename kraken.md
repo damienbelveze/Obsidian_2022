@@ -103,19 +103,19 @@ kraken -i sonnets.tif sonnets.txt segment ocr -m en_best.mlmodel
 ````
 un fichier sonnets.txt est généré qui comporte les caractères suivants : 
 
-k
-r'I
-I
-I
-9
-e
-N
--A
-SHAKE-SPEARES
-S O N N E T S.
-Neuer before Imprinted.
-By G.Ed frT. T. and are
-tobe folde by ili e.
+k   
+r'I    
+I   
+I    
+9    
+e    
+N    
+-A    
+SHAKE-SPEARES    
+S O N N E T S.    
+Neuer before Imprinted.    
+By G.Ed frT. T. and are    
+tobe folde by ili e.    
 
 Les premières lettres correspondent à l'illustration du frontispice et constituent du bruit. 
 En revanche, le reste est plutôt bien transcrit avec toutefois des scories dans les deux dernières lignes : 
@@ -129,4 +129,16 @@ William Apley (en italiques) n'a pas été reconnu. La date n'apparaît pas non 
 Cela doit s'expliquer par le fait que le modèle choisi pour l'océrisation est trop général, pas assez appliqué aux textes imprimés en Angleterre au XVIIème siècle. 
 
 
+# Les modèles
 
+Les modèles sont issus de phases d'entraînement de l'[[intelligence artificielle]] de Kraken sur des corpus de textes homgènes. 
+
+Par exemple le modèle [OCR-greek-cursive](https://github.com/pharos-alexandria/ocr-greek_cursive) a été constitué sur des textes issus du Savile et Catena Lispiensis
+
+Pour charger un modèle, charger le modèle dans le même répertoire que celui des images à analyser et lancer la commande : 
+
+````python
+kraken -i imagefile -m modelname
+`````
+
+(voir réponse de Annette von Stockhausen)
