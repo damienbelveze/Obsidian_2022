@@ -68,7 +68,7 @@ Le [tweet de @navigator_imp](https://twitter.com/imp_navigator/status/1325349888
 
 Invid est peu efficace identifier cette vidéo. 
 Il vaut mieux s'en remettre à une attentive des images qui la composent. 
-Cette manifestation comporte certains invariants (drapeau anarchiste, ACAB, uniformes des policiers anti-émeutes) qui ne disent pas grand-chose du contexte. Des inscriptions sur les murs montrent qu'on est dans un pays hispanophone ("organiza la revolta")
+Cette manifestation comporte certains invariants (drapeau anarchiste, ACAB, [[uniforme|uniformes]] des policiers anti-émeutes) qui ne disent pas grand-chose du contexte. Des inscriptions sur les murs montrent qu'on est dans un pays hispanophone ("organiza la revolta")
 
 0:14, 0:27, 1:00 : on voit apparaître à plusieurs reprises un drapeau à franges noires et à bandes horizontales bleu clair, vert, rouge, frappé d'un disque jaune.
 Il ne semble pas correspondre à un pays en particulier, mais plutôt à une minorité ethnique qui -en l'occurrence manifeste pour sa reconnaissance. 

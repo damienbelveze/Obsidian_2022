@@ -24,7 +24,7 @@ L'anarcho-capitalisme qui dans un contexte de [[disruption|Disruption]] ne recon
 - il fait de la propriété privée le socle des libertés
 - corollaire : il accepte que cette inégalité de patrimoine entraîne une inégalité des droits entre des individus entièrement libres parce que riches et d'autres privées de liberté parce qu'en situation de précarité économique (voir [[Liberté vs égalité]])
 
-L'anarcho-capitalisme, en tant que manière de penser de l'élite, consiste à remplacer peu à peu le gouvernement de l'Etat par celui de structures régies par le marché (et aujourd'hui par le capitalisme de plateforme qui provoque l'ubérisation), des structures que Foucault, dans Naissance de la Biopolitique qualifiait de *réalités transactionnelles* (voir article de [Catherine Malabou sur AOC](https://aoc.media/opinion/2022/01/20/la-voie-anarchiste-est-la-seule-qui-reste-encore-ouverte/). 
+L'anarcho-capitalisme, en tant que manière de penser de l'élite, consiste à remplacer peu à peu le gouvernement de l'Etat par celui de [[structures]] régies par le marché (et aujourd'hui par le capitalisme de plateforme qui provoque l'ubérisation), des structures que Foucault, dans Naissance de la Biopolitique qualifiait de *réalités transactionnelles* (voir article de [Catherine Malabou sur AOC](https://aoc.media/opinion/2022/01/20/la-voie-anarchiste-est-la-seule-qui-reste-encore-ouverte/). 
 
 
 

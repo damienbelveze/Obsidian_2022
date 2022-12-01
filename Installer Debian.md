@@ -14,7 +14,7 @@ tags: []
 install
 choix de la langue
 détection de la carte réseau
-android AP
+[[android]] AP
 connecter au téléphone
 
 

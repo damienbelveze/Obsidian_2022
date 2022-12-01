@@ -20,7 +20,7 @@ tags: [culture_numérique, VAE]
 
 # incompréhension de la manière dont les fichiers sont organisés
 
-De plus en plus d'étudiants, qui ont grandi avec le smartphone, Google et des applications pour Android ou Iphone sont incapables de comprendre comment sont structurés les fichiers sur un ordinateur. Le système de classement par dossiers et fichiers qui était familier à tous les adultes qui ont connu la disquette leur est de plus en plus étranger. 
+De plus en plus d'étudiants, qui ont grandi avec le smartphone, Google et des applications pour [[Android]] ou Iphone sont incapables de comprendre comment sont structurés les fichiers sur un ordinateur. Le système de classement par dossiers et fichiers qui était familier à tous les adultes qui ont connu la disquette leur est de plus en plus étranger. 
 Plusieurs constats ont été réalisés au cours de l'année 2017 dans différentes écoles d'ingénieurs comme le rapporte Monica Chin dans un article paru le 22 septembre 2021 dans le magazine en ligne The Verge [[@ChinStudentswhogrew2021]]
 
 Monica Chin décrit le comportement d'un étudiant type qui envoie tous ses fichiers dans un même panier (dossier) et utilise le moteur de recherche de son système d'exploitation pour retrouver le bon fichier. Cette manière de faire est peut-être adaptée au fonctionnement de l'utilisateur d'un ordinateur, mais n'est pas tenable dans le cadre d'un programme : ce programme a besoin qu'on lui définisse une structure de fichiers pour fonctionner. 

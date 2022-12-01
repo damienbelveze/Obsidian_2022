@@ -1,5 +1,5 @@
 auteurs: Moran Kerinec, 
-titre: Pourquoi les administrations ont-elle tant de mal à passer au logiciel libre à grande échelle ?
+titre: Pourquoi les administrations ont-elle tant de mal à passer au [[logiciel libre]] à grande échelle ?
 publication:Numerama, 
 année: 2021, 
 p.,

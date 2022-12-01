@@ -280,6 +280,8 @@ Les points suivants sont ordonnés suivant le plan du PGD-type sur DMP-Opidor
 
 #### 1.1.1 méthodes et logiciels de collecte ou de production
 
+Pour les SMP (Software Management Plan), voir le guide [paru en décembre 2022 d'Opidor](https://opidor.fr/nouveau-guide-pratique-pour-lelaboration-de-plans-de-gestion-de-logiciels/?utm_campaign=Data%20veille&utm_medium=email&utm_source=Revue%20newsletter)
+
 #### 1.1.2 contraintes liées à la réutilisation de données dans le cas du projet
 
 #### 1.1.3 description des données produites ailleurs et réutilisées

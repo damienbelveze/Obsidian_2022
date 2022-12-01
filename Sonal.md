@@ -46,6 +46,10 @@ Pondération : mettre en relief des passages importants (pour un export)
 
 Ajouts de mot-clés possibles pour chaque extrait. 
 
+# analyses
+
+analyse à plat (proportion du temps de parole)
+analyse lexicométrique. Ajouter les mots non significatifs dans les mots outils.
 
 
 

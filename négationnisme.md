@@ -7,10 +7,13 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [négationnistes, négationniste, négationnismes, denialism, denialist, denialists]
-tags: [philosophie_politique]
+tags: [philosophie_politique, histoire_société]
 ---
 
 # négationnisme et lois mémorielles
+
+[[devoir de mémoire]]
+
 
 # négationnisme climatique
 

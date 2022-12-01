@@ -75,7 +75,7 @@ Les champs dans Word ou Writer dont les styles peuvent être modifiés ne sont p
 
 [template](mypdf/lettre.odt)
 
-un modèle se constitue en travaillant les styles sur le traitement de texte (définir qu'un titre aura telle forme, telle police, un titre 2, telle taille, telle police, une image sera alignée, ancrée au texte, etc. )
+un modèle se constitue en travaillant les styles sur le traitement de texte (définir qu'un titre aura telle forme, telle police, un titre 2, telle taille, telle [[police de caractères]], une image sera alignée, ancrée au texte, etc. )
 Quand le modèle est fait, la conversion est simple : 
 
 ```````shell

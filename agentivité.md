@@ -12,7 +12,7 @@ tags: [biais_cognitifs]
 
 # qu'est-ce qui fait tourner le monde ?
 
-Qui est responsable du monde tel qu'il est ? une élite qui régente le monde en suivant un agenda caché (cf. [[théorie complotiste|théorie du complot]]) ? ou des structures sociales (classes, races) qui imposent aux individus leurs comportements. 
+Qui est responsable du monde tel qu'il est ? une élite qui régente le monde en suivant un agenda caché (cf. [[théorie complotiste|théorie du complot]]) ? ou des [[structures]] sociales (classes, races) qui imposent aux individus leurs comportements. 
 
 # agir pour garder le contrôle
 

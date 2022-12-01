@@ -29,7 +29,7 @@ Camille Froidevaux-Metterie s'inspire d'une [[phénoménologie|perspective phén
 
 # L'idéal d'une culture alternative
 
-Certains mouvements féministes affichent leur choix d'une forme de misandrie et leur volonté de construire une culture parallèle entièrement régie par les "valeurs" féministes, une culture d'où tout simplement les hommes seront absents (cf. refus d'Alice Coffin de lire, écouter, voir une oeuvre qui soit faite par un homme). 
+Certains mouvements féministes affichent leur choix d'une forme de [[misandrie]] et leur volonté de construire une culture parallèle entièrement régie par les "valeurs" féministes, une culture d'où tout simplement les hommes seront absents (cf. refus d'Alice Coffin de lire, écouter, voir une oeuvre qui soit faite par un homme). 
 
 Cette manière de concevoir le féminisme a deux inconvénients majeurs : 
 - elle met la barre extrêmement haut pour des femmes qui souhaitent mettre fin au patriarcat et s'émanciper de relations avec les hommes basées sur la domination masculine. Leur objectif n'est pas de se couper des hommes, mais d'avoir des relations égalitaires avec celles-ci. 

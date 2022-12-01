@@ -54,6 +54,13 @@ Facebook : même quand on ne veut pas y aller, les autres vous y mettent ([[Patr
 
 pub ciblée = pub intrusive "on entre dans mon intimité"
 
+logiciel libre et éducation
+
+application Lalilo, travail à distance des élèves
+
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Pfff... Dépitée, déçue... Je suis pourtant inscrite depuis septembre, les Vosges font partie du TNE... <a href="https://twitter.com/lalilo_lecture?ref_src=twsrc%5Etfw">@lalilo_lecture</a> A quand les prochaines licences? <a href="https://t.co/mLVeapc92v">pic.twitter.com/mLVeapc92v</a></p>&mdash; Cath (@Catmam88) <a href="https://twitter.com/Catmam88/status/1596446138906943489?ref_src=twsrc%5Etfw">November 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+
+
 
 
 

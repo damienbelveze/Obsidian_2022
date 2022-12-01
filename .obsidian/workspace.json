@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero.md",
+                "file": "Plan de gestion des données.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sonal.md",
+                "file": "Khartis.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sonal",
+                "query": "file:plan de gestion des données",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sonal.md"
+                "file": "Plan de gestion des données.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sonal.md",
+                "file": "Plan de gestion des données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,17 +160,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "cbecdc2dd121108d",
+  "active": "9169505f0e8db1b5",
   "lastOpenFiles": [
-    "transcriptions d'entretiens.md",
-    "formation_doctorale_PGD_Angers.md",
-    "Sonal.md",
-    "LOL, une affaire sérieuse.md",
-    "éducation.md",
-    "Conference de Henri Atlan.md",
-    "logiciel libre.md",
-    "critique du logiciel libre.md",
-    "Communs.md",
-    "Zotero.md"
+    "misandrie.md",
+    "féminisme.md",
+    "Android.md",
+    "StopCovid.md",
+    "smartphone et vie privée.md",
+    "Installer Debian.md",
+    "illectronisme.md",
+    "domicile.md",
+    "division du travail.md",
+    "structures.md"
   ]
 }
