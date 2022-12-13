@@ -50,7 +50,7 @@ Missions du Délégué à la Protection des Données (RGPD entré en vigueur
 en Europe en 2018) Correspondant Informatique et Liberté devenu DPD la
 plupart du temps. Mettre en oeuvre des stratégies pour sensibiliser les
 personnels sur les méthodes de protection de ces données. Auprès de ces
-doctorants, le DPD intervient à la demande pour les traitements des
+[[doctorants]], le DPD intervient à la demande pour les traitements des
 données personnelles.
 
 ** Déontologue
@@ -149,7 +149,7 @@ remerciements.
 ** Approche critique sur l'intégrité scientifique
 
 
-Injonction contradictoire : contexte scientifique = Publish or Perish / de l'autre,
+Injonction contradictoire : contexte scientifique = [[publish or perish]] / de l'autre,
 injonction à l'honnêteté. Danger de la bureaucratisation - par rapport à
 des situations d'enquêtes réelles ; comment arbitrer entre des logiques
 scientifiques et des logiques de préservation des données personnelles.

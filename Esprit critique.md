@@ -1,6 +1,17 @@
 ---
+title: Esprit critique
+subtitle:
+id: 202210181727_Esprit critique
+author: Damien Belvèze
+date: 18-10-2022
+link_citations: true
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
 aliases: [critical thinking]
+tags: [intégrité_scientifique, esprit_critique]
 ---
+
+L'esprit critique doit lui même être soumis à sa propre critique.
 
 # Définition : 
 
