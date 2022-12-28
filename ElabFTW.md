@@ -46,7 +46,7 @@ coloration syntaxique de R disponible dans la solution
 La création de template oblige les jeunes chercheurs à ne pas oublier de noter des aspects importants de l'expérience.
 Ce qui prend du temps c'est de créer les premiers templates, après on peut les dupliquer facilement.
 
-Connecter ces cahiers numériques avec le [[Plan de gestion des données|Plan de gestion de données]] ? Cela n'existe pas encore, mais on peut formaliser les choses dans le logiciel de telle sorte que leur export soit réutilisable directement ou le plus simplement possible dans le PGD
+Connecter ces [[cahiers numériques]] avec le [[Plan de gestion des données|Plan de gestion de données]] ? Cela n'existe pas encore, mais on peut formaliser les choses dans le logiciel de telle sorte que leur export soit réutilisable directement ou le plus simplement possible dans le PGD
 On ne peut pas importer dans cette solution le spectre (format pas disponible), passer le spectre en PNG. 
 
 

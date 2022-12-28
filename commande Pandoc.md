@@ -33,7 +33,21 @@ Obtenir un fichier en markdown depuis une page web en ligne :
 `pandoc -f html -t markdown https://ateliers-du-midi.univ-rennes1.fr/les-ateliers-de-la-bu -o pageweb.md`
 
 
+extraire des références d'un document en markdown
 
+Extraire des références d'un document en markdown pour constituer avec elles un document en format bibtex (https://fosstodon.org/@pandoc/109549882954402931)
+
+Do you maintain one big [#BibLaTeX](https://mamot.fr/tags/BibLaTeX) database? Get the subset of just those entries required for an article with  
+pandoc -L getbib.lua paper.md -t biblatex -o paper.bib  
+where getbib.lua contains
+
+function Pandoc(d)  
+d.meta.references = pandoc.utils.references(d)  
+d.meta.bibliography = nil  
+return d  
+end
+
+[#pandoc](https://mamot.fr/tags/pandoc) [#LuaFilter](https://mamot.fr/tags/LuaFilter) [#BibTeX](https://mamot.fr/tags/BibTeX) [#BibLaTeX](https://mamot.fr/tags/BibLaTeX)
 
 
 

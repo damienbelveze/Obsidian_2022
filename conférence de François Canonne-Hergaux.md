@@ -121,7 +121,7 @@ méthodologie : utilisation et collecte des data
 culture statistique
 la communication doit être simple et utiliser les raw data
 
-publish and cherish plutôt que publish or perish
+publish and cherish plutôt que [[publish or perish]]
 
 Le mentor doit développer l'esprit critique des étudiants et pas seulement répondre à leurs questions
 

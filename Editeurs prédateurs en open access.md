@@ -23,7 +23,7 @@ Prix de vente de l'exemplaire ci-dessous : 71 euros !
 # contexte de l'apparition des éditeurs prédateurs : le développement de l'accès ouvert payant
 
 Raisons de l'apparition du phénomène : 
-- pression à la publication (publish or perish)
+- pression à la publication ([[publish or perish]])
 - tournant vers l'accès ouvert : apparition de pure players de l'open access
 - "perversion" de la notion de Gold OA (publication en accès ouvert) vers la publication payante pour l'auteur avec [[article processing charges|APC]] pouvant monter à pluieurs milliers d'euros par article. Se demander dans quelle mesure les éditeurs prédateurs ne sont pas partie prenante de ce nouveau régime économique de publication plutôt qu'une conséquence encore non maîtrisée [[@Therenoblack2020]]
 

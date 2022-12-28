@@ -35,5 +35,11 @@ Quand dialoguer devient synonyme de se compromettre, la guerre civile n'est jama
 
 (voir Olivier Fournout[[@fournoutSocieteScelerats2022]])
 
+# les limites du point Godwin
+
+Olivier Mannoni dénonce un usage du Point Godwin pour disqualifier tout discours qui fait un lien entre des positions néo-fascistes comme celle de Giorgia Melloni et l'histoire du fascisme mussolinien. (L'obs, n°3035-08, page67)
+
+
+
 # bibliographie 
 

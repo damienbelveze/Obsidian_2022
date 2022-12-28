@@ -33,7 +33,7 @@ Par ailleurs, ils lui reprochent d'ignorer la diversité du monde et que localem
 
 > C'est dans la multiplicité de ces luttes politiques que réside l'espoir qu'on ne court pas à la catastrophe
 
-La catastrophe est donnée comme certaine et pourtant on ne sait pas quand elle va venir, dans ce cas, la réaction de l'esprit humain est de continuer comme d'habitude (business as usual). Les Larrère voient un lien possible entre le TINA (there is no alternative des libéraux et la certitude des effondristes que l'effondrement est proche)
+La catastrophe est donnée comme certaine et pourtant on ne sait pas quand elle va venir, dans ce cas, la réaction de l'esprit humain est de continuer comme d'habitude (business as usual). Les Larrère voient un lien possible entre le [[TINA]] (there is no alternative des libéraux et la certitude des effondristes que l'effondrement est proche)
 
 ([[@Larrerepireestpas2020]])
 

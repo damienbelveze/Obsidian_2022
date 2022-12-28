@@ -19,7 +19,7 @@ En sociologie, on observe un nombre important de corrélations dont on n'est pas
 
 dans le mesure où les données sont toujours présentées dans les médias sous une forme narrative (et parfois par les scientifiques eux-mêmes) parmi les foutaises les plus communément lues, on trouve souvent des corrélations prises pour des causalités dans un sens ou dans un autre. 
 
-Sous la pression à la publication (publish or perish), les chercheurs peuvent être amenés à chercher et trouver des corrélations statistiques et à en inférer des causes là où il n'y a que des correlations (voir [[p-hacking]])
+Sous la pression à la publication ([[publish or perish]]), les chercheurs peuvent être amenés à chercher et trouver des corrélations statistiques et à en inférer des causes là où il n'y a que des correlations (voir [[p-hacking]])
 
 Une recherche a montré que sur les 50 études les plus partagées sur les [[réseaux sociaux]] établissement une causalité entre un régime, la prise d'un médicament ou la pollution et une conséquence en termes de bonne ou mauvaise santé, seulement 15 démontraient le mécanisme de la causailité et parmi elles, seulement 2 le faisaient selon les standards scientifiques en vigueur. Cela s'aggrave encore quand on observe le phénomène dans la presse populaire. 
 

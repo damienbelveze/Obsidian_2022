@@ -75,7 +75,7 @@ système de prise de notes collaboratives. Avec le [[numérique]] on peut bascul
 # cahiers computationnels 
 
 mélange de texte, d'analyse, de code et de visualisations. 
-approche de la programmation lettrée : fournir suffisamment d'explications sur son code pour le rendre compréhensible et partageable.
+approche de la [[programmation lettrée]] : fournir suffisamment d'explications sur son code pour le rendre compréhensible et partageable.
 
 [[Jupyter]] est encore le plus utilisé. 
 ça permet de faire des analyses reproductibles pour avoir du code et des analyses vérifiables, du moins dans le discours. 

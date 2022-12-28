@@ -78,7 +78,24 @@ entrepôts institutionnels
 |:---:|:---:|:---:|:---:|
 | Université de Lorraine | Lorraine | DOREL | https://factuel.univ-lorraine.fr/node/18396 |
 
+## offre de service d'Eskemm Data
 
+GIP, datacenter labellisé en Bretagne
+
+![](eskemm.PNG)
+
+mutualisation de serveurs. 
+but : 
+- meilleure efficacité énergétique (voir [[PUE]])
+- répondre aux enjeux de sécurisation du patrimoine informationnel.
+
+En utilisant le datacenter régional, les laboratoires ne paieront plus du matériel mais des frais d'utilisation. 
+Projet breton structuré en deux étapes : 
+- construire à peu de frais une première salle avec une capacité modeste (24 armoires infos), salle de très haute performance avec une très bonne capacité énergitique
+- La deuxième salle doit être livrée courant mars 2023.
+
+Les deux salles se situent au sous-sol de l'IRT B-Com
+Le site final se trouvera sans doute sur le campus de Centrale Supelec.
 # dépôt du code-source des logiciels
 
 Software Heritage assure la conservation du code source des logiciels utilisés pour traiter les données à travers la plateforme HAL. 

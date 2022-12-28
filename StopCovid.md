@@ -120,6 +120,7 @@ Utilisée à travers l'application TousAntiCovid Verif, le pass sanitaire ferait
 
 L'efficacité de cette solution est une question centrale dans la mesure où elle devrait conditionner son acceptabilité aux yeux de la [[CNIL]] au nom de la proportionnalité entre la fin recherchée et le risque que cette application fait porter sur les données des utilisateurs (dans la mesure où StopCovid ne permet pas l'anonymat notamment).  Avec deux années de recul, la CNIL a souligné en 2022 l'effet très marginal de cette application pour endiguer les contaminations[[@laussonTousAntiCovidPasServi2022]]. 
 
+Le manque d'efficacité ou tout au moins d'efficacité mesurable est l'argument qu'a retenu La Cour des Comptes en décembre 2022 pour fustiger une dépense de 600 000 000 sur le budget de la sécurité sociale sans réel effet (voir [l'Obs](https://www.nouvelobs.com/coronavirus-de-wuhan/20221206.OBS66806/le-contact-tracing-au-covid-a-coute-600-millions-d-euros-pour-une-efficacite-incertaine-epingle-la-cour-des-comptes.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1670339179))
 
 ### taux d'adoption
 

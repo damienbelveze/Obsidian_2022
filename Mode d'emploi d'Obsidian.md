@@ -1,20 +1,4 @@
 ---
-title: 
-author: 
-date: 
-tags: []
-aliases: []
----
-
----
-title: 
-author: 
-date: 
-tags: []
-aliases: []
----
-
----
 title: Comment utiliser Obsidian
 subtitle: formation doctorale
 author: Damien Belvèze
@@ -86,8 +70,8 @@ Obsidian présente les avantages de la nouvelle génération d'outils de PKM (pe
 - des modèles de note peuvent être produits par l'utilisateur et partagés avec d'autres.   
 - hébergement en local (pas nécessaire de souscrire à un compte contrairement à Notion ou à Roam, ce dernier étant en plus payant). Tous vos fichiers - plugins, css, images, sons, fichiers en markdown ou en PDF-  sont dans un coffre (*Vault*, dans le langage d'Obsidian) que vous hébergez sur votre ordinateur et que vous pouvez synchroniser avec un serveur distant (Github par exemple). Dans ce tutoriel nous traduirons sytématiquement "Vault" par "coffre".  
 - format ouvert des notes ([[markdown]] = format universel, contrairement à  Evernote)    
-- les notes sont hébergées sur notre ordinateur : on en a la maîtrise.  
-- Pas dépendant d'un éditeur (contrairement à Org-roam pour emacs). On peut éditer depuis Obsidian ou bien depuis n'importe quel éditeur qui supporte le markdown (emacs, atom, panwriter, etc.)  
+- les notes sont hébergées sur notre ordinateur : on en a la maîtrise.  Par ailleurs, s'il manque une fonction à Obsidian, il est possible d'y suppléer en utilisant un autre logiciel qui comporte cette fonction et en l'appliquant au coffre-fort (comme dans le cas de [la liaison, déliaison des occurrences](https://forum.obsidian.md/t/is-anyone-aware-of-any-way-we-can-delink-unlink-mentions-efficiently/32997))
+- Pas dépendant d'un éditeur (contrairement à [[Org-roam]] pour Emacs). On peut éditer depuis Obsidian ou bien depuis n'importe quel éditeur qui supporte le markdown (emacs, atom, panwriter, etc.)  
 - version disponible sur les différentes familles de systèmes d'exploitation (GNU/Linux, Windows, Mac)  
 - Nombreuses possibilités de recherche dans les notes (par fichier, par mot dans la note, par mot dans la section de la note, par tag...) (voir [[@CaseObsidiananswernotetaking2021]])  
 - Importance des rétroliens (combien de notes citent une même note). Cela permet de faire des associations d'idées et des graphes  
@@ -1196,7 +1180,7 @@ On peut bien sûr envoyer le contenu de sa bibliothèque de notes et des documen
 
 ## 11.2 de github ou gitlab à la publication de ses notes en ligne
 
-En théorie, il est possible de créer un site statique à partir de Github en utilisant netlify ou Jekyll comme gestionnaire de sites statique. Toutes les notes en markdown envoyées depuis Obsidian vers Github vont être disponibles depuis ce site et liées les unes aux autres par des liens hypertextes. 
+En théorie, il est possible de créer un [[site statique]] à partir de Github en utilisant netlify, Jekyll ou [Mkdocs](https://www.sukany.cz/blog/2022/03/documentation-publishing-with-obsidian-and-github-pages-using-mkdocs/) comme générateur de sites statique. Toutes les notes en markdown envoyées depuis Obsidian vers Github vont être disponibles depuis ce site et liées les unes aux autres par des liens hypertextes. 
 Après plusieurs tentatives avec Netlify, et en suivant plusieurs tutos dont [celui-ci](https://www.starfallprojects.co.uk/posts/obsidian-monorepo/), je ne suis pas encore parvenu à réaliser cette opération. A priori, elle rend inutile le fait d'obtenir ce service en publiant à ses frais ses notes sur les serveurs d'Obsidian (plugin publish d'obsidian)
 
 # 12. Où trouve t-on de l'aide le plus souvent à propos d'Obsidian

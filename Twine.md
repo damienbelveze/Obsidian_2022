@@ -56,6 +56,12 @@ Vous rencontrez un moine
 (set: $moine to true)
 ````
 
+`````sugarcube
+
+<< set $moine to true >>
+
+`````
+
 et plus tard : 
 
 Si vous avez rencontré un moine
@@ -91,7 +97,22 @@ $robotic[Hi, it's me. Your clanky, cold friend.]
 
 tous les hooks précédés de la variable $robotic seront désormais écrits en Courier New
 
-# modifier la feuille de style de l'Histoire 
+# les liens
+
+Utiliser les wikiliens pour relier les passages
+
+# modifier l'affichage de l'histoire ou de tel ou tel passage
+
+## la sidebar de Sugarcube
+
+Avec le dialecte Sugarcube, une sidebar permettant de sauvegarder sa progression ou de repartir à zéro s'affiche à droite.
+Si on veut la supprimer tout au long du jeu, dans la feuille javascript de l'histoire, entrer le code 
+
+````javascript
+UIBar.destroy();
+````
+
+## modifier la feuille de style de l'Histoire 
 
 cliquer en bas à gauche sur le titre de l'histoire. 
 Choisir "Modifier le style de l'histoire"
@@ -106,7 +127,7 @@ ajouter le CSS correspondant à ses voeux :
 }
 ````
 
-- couleur de fonds : 
+- couleur de fond : 
 
 ````css
 tw-story {
@@ -114,6 +135,24 @@ tw-story {
   color: #000;
 }
 `````
+
+- image de fond pour l'ensemble des passages
+
+````css
+tw-story {
+  background-image:url("lien");
+  background-size:cover;
+}
+````
+
+- image de fond pour les passages balisés "ciel"
+- 
+````css
+body.ciel {
+	background-image: [img[black_sky.jpg]];
+   background-size: cover; 
+}
+````
 
 * police, taille des caractères :
 
@@ -143,6 +182,14 @@ img {
   text-decoration: underline dotted #197fe6; /*#9f5810;*/
 }
 
+````
+
+Supprimer la sidebar dans la version Sugarcube
+
+````css
+#ui-bar   {
+display: none;   
+}
 ````
 
 Modifier le format de l'Histoire = changer la syntaxe du code (par défaut Harlowe 3.2)
@@ -176,6 +223,16 @@ faire clignoter un mot
 ```harlowe
 (text-style: "blink")[Votre texte ici]
 ```
+
+
+## échapper
+
+Possibilité d'utiliser dans l'éditeur la fonctionnalité Verbatim : le texte en verbatim ignore le balisage sous jacent. On peut aussi mettre le texte entre apostrophes : 
+
+````sugarcube ou harlowe
+`$score` 
+````
+
 
 
 ## ajouter des conditions
@@ -290,6 +347,21 @@ lier un score à un profil de performance
 }
 ```
 
+Pour permettre à l'apprenant d'imprimer son score et de l'envoyer à l'enseignant :
+
+
+````
+Vous voici arrivé au terme de cette aventure [[print $nom]]
+
+Votre score est de [[print $score]]
+
+Cliquer ci-dessous pour imprimer votre score et envoyer le document à votre enseignant : 
+
+<button onclick="window.print()">Imprimer le score</button>
+
+````
+
+
 ## Fixer des variables en cliquant sur des objets
 
 ### définition de la variable : 
@@ -318,6 +390,16 @@ modifier une variable numérique en cours de jeu
 (set: $nomdevariable to it +1)
 ```
 
+````sugarcube
+
+<<set $score to $score -= 4>>
+
+<<set $chance to $chance **= 2>>
+````
+
+augmente le score de 4 points, double les points de chance.
+
+
 Demander au joueur de fixer la variable avec PROMPT
 
 ````harlowe
@@ -339,6 +421,9 @@ passage "arbre"
 (else:)[ce fruit est délicieux, vous en mettez quelques autres dans votre sac]
 ````
 
+# Incruster du son, des vidéos
+
+<video src="fichier.mp4" width="640" height="480" autoplay></video>
 
 
 # bibliographie
