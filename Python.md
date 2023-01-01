@@ -10,18 +10,113 @@ aliases: [Py]
 tags: [Programmation]
 ---
 
+Pour les conférences sur Python voir [[Cocopy]]
+
+# sélectionner un fichier avec une interface graphique
+
+## tkinter
+
+interface graphique présente par défaut dans Python
+
+````shell
+pip install tk
+````
+
+````python
+import Tkinter
+from tkinter.filedialog import askdirectory
+path = askdirectory()
+````
+(source : https://youtu.be/YTOUBGHEgZg)
+
+## easygui
+
+easygui est un package Python qui permet de proposer à l'utilisateur de faire un choix dans une interface graphique. 
+
+Installation : 
+
+````shell
+pip install python
+````
+
+écrire un menu pour un choix oui / non
+``
+```python
+import easygui
+easygui.ynbox('voulez-vous continuer', 'Titre', ('oui', 'non'))
+```
+
+Le titre s'affiche en haut du pop-up
+
+faire sélectionner un fichier dans un répertoire
+
+````python
+import os
+path = "[C://Users//dbelveze//Desktop//gfg](C://Users//dbelveze//Desktop)"
+dir_list = os.listdir(path)
+`````
+
+
+faire choisir un fichier de cette liste
+
+````python
+import easygui
+msg = "sélectionnner le fichier"
+title = "sélection du fichier"
+choices = [dir_list]
+choice = choicebox(msg, title, choices)
+`````
+
+# afficher la liste de tous les fichiers selon leur format
+````python
+import os
+# traverse whole directory
+for root, dirs, files in os.walk(r'D:'):
+    # select file name
+    for file in files:
+        # check the extension of files
+        if file.endswith('.md'):
+            # print whole path of files
+            print(os.path.join(root, file))
+``````
+
+cherche et affiche tous les documents en markdown dans le disque D: (recherche récursive dans tous les dossiers)
+
+# chercher un document sur Internet et le télécharger 
+
+Cela se fait avec le module wget de Python
+Pour installer le module : 
+
+````shell
+import wget
+url = "https://www.zotero.org/styles/nature"
+wget.download(url, "C://Users//dbelveze//Desktop")
+`````
+
+# créer un dossier avec Python
+
+On va utiliser OS comme toute commande de Python qui met en jeu le système d'exploitation
+
+````python
+import os
+os.mkdir('biblio')
+`````
+crée un dossier biblio
+```
+
 # ouvrir, écrire, modifier, fermer un fichier
+
 Ouvre un fichier et le lit tout d'un coup
 "r" = read ([[@SchultzPythonpourSHS2021]], p81)
 > ouvre un fichier avec la fonction *open* en donnant le chemin du fichier et le mode lecture "r" puis stocke le lien vers le fichier ouvert dans la variable **fichier** 
 
 
-``````
+``````python
 fichier=open("data1.txt", "r")
 contenu=fichier.read()
 ``````
 
-``````
+``````python
 fichier.close()
 print(contenu[0:40])
 ``````
@@ -30,7 +125,7 @@ ferme le fichier, imprime les premières lignes (de la première ligne à la lig
 
 # modifier des caractères dans un fichier
 
-``````
+``````python
 # ouvre et lit le fichier titre.md
 with open('titre.md', 'r') as file :
   filedata = file.read()
@@ -62,37 +157,20 @@ with open('input.txt', 'r') as inp, open('output.txt', 'w') as out:
 ``````
 
 
-# Cocopy
-
-Mathias Bussonnier, core-developper de Jupyter Notebook (voir [[cahiers numériques|carnets de laboratoire]]
-
-![](20221124_programmation_scientifique.PNG)
-
-## en quoi consiste la programmation scientifique
-
-La programmation scientifique comporte toujours un peu d'ingénieurie logicielle (même si les deux termes paraissent au départ contradictoires)
-
-La plupart des bibliothèques académiques sont faits par des scientifiques, non par des informaticiens de profession. 
-
-Exemple : passer du CSV -> dataframe GeoPanda -> carte [[chloroplèthe]] : c'est de l'ingénieurie logicielle dans le cadre d'une prgorammation scientifique. 
-
-Python simple à écrire, interactif, 
-
-Python c'est suffisamment performant grâce aux bonnes bibliothèques (Julia est un langage plus récent mais comporte moins de bibliothèques)
-
-Le compréhension des outils change le domaine des possibilités : le fait de savoir ce que Python peut faire repousse les limites des recherches possibles. 
-Si l'échantillon est petit, parfois ça vaut le coup de le faire à la main plutôt que de créer le script qui va bien. 
-
-## dialogue humain / ordinateur
-
-Il y a quelques domaines où la programmation est incontournable : l'astronomie en est un. Mais Python est bcp utilisé dans les humanités numériques. 
+# créer un environnement virtuel pour Python
 
 
-# bibliographie
+# créer un installateur pour Windows à partir d'un script pour Python
 
+cela se fait avec avec le module pyinstaller ([source](https://www.geeksforgeeks.org/convert-python-script-to-exe-file/))
+Installer Pyinstaller
+taper ensuite la commande suivante : 
 
+ouvrir une fenêtre powershell (flêche haut- clic droit) dans la fenêtre où apparaît le script python. 
+Dans powershell, 
 
-langage de programmation
+````shell
+pyinstaller --onefile -w script.py
+`````
 
-voir tutoriel de base sur [Focus](https://focus.univ-rennes1.fr/python1)
-
+La localisation du fichier .exe se trouve en bas du résultat. 

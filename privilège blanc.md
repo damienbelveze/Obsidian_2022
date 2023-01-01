@@ -46,7 +46,7 @@ cette auto-réification sur fonds de réappropriation de l'identité jugée disc
 (Source : [[@illouzEmotionsContreDemocratie2022]], p169)
 
 
-Pour l'écrivain Thomas Chatwill, certaines personnes noires ont de la nostalgie pour la ségrégation parce que le fait de se définir par sa race permet de ne pas avoir à se chercher une [[identité]] plus complexe et d'autres valeurs. Cela fige la quête identitaire à des attributs simples et surtout réducteurs : 
+Pour l'écrivain Thomas Chatwill, certaines personnes noires ont de la [[nostalgie]] pour la ségrégation parce que le fait de se définir par sa race permet de ne pas avoir à se chercher une [[identité]] plus complexe et d'autres valeurs. Cela fige la quête identitaire à des attributs simples et surtout réducteurs : 
 
 > On ne peut pas transcender le racisme si l'on s'en tient aux anciennes catégories qui l'ont produit. 
 
