@@ -437,6 +437,58 @@ Autres applications de R à travers Shiny qui offre une interface graphique plus
 shiny met à disposition ses serveurs pour 5 applications gratuites sur son serveur.
 
 
+# Utiliser le thème xarringan pour une présentation
+
+
+https://zenodo.org/record/6555791
+
+````yaml
+title: "gérer, diffuser et partager ses données de recherche"
+subtitle: ""
+author: "Damien Belvèze"
+institute: "Université de Rennes 1"
+date: "13/04/2022"
+bibliography: "data_presentation.bib"
+csl: "nature.csl"
+output: 
+  xaringan::moon_reader:
+    css: ["default", "monstyle.css"]
+    seal: false
+    lib_dir: libs
+    nature:
+      ratio : "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+`````
+
+conformément aux usages sur R, ne pas entrer de commande pour le chargement automatique des paquets utilisés (install.packages), se limiter à charger ces packages. S'ils sont manquants dans la configuration de l'utilisateur, celui-ci sera seulement incité à les installer. 
+Les packages demandés sont Xaringan, Xaringanbuilder, pagedown. 
+Commenter les packages et les commandes qui permettent de créer des citations dans les slides à partir d'un fichier de références en format bibtex
+
+````r
+background-color: #bebebe
+class: middle, center
+
+# De quoi parle t-on ?
+
+### Quelques définitions concernant les données de la recherche
+
+```{r warning=FALSE, echo=FALSE, message=FALSE}
+# library(devtools)
+# library(bibtex)
+library(xaringan)
+# library(knitcitations)
+# write.bib(c('bibtex', 'knitr', 'knitcitations'), 
+# file="data_presentation.bib")
+```
+
+???
+
+Pour afficher les notes des diapositives, cliquer sur la touche p
+`````
+
+
 # Faire son CV avec R
 
 utiliser le package Pagedown([[@DellaVedovaCommentfaireCV2020]])

@@ -20,6 +20,7 @@ Le socialisme, c'est à dire l'anticapitalisme ? (Jean-Claude Michéa)
 
 la critique sociale liée à l'émancipation individuelle et collective (Philippe Corcuff) et incluant la lutte contre toutes les discriminations ?
 
+![](programme_social.png)
 
 # naturalisme de la droite, artificialité de la gauche
 

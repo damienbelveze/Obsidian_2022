@@ -47,7 +47,7 @@ os.remove('file.txt')
 ``````
 
 
-
+voir script complet de choix d'une note à sélectionner 
 
 # bibliographie
 

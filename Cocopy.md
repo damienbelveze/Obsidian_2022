@@ -23,7 +23,7 @@ La programmation scientifique comporte toujours un peu d'ingénieurie logicielle
 
 La plupart des bibliothèques académiques sont faits par des scientifiques, non par des informaticiens de profession. 
 
-Exemple : passer du CSV -> dataframe GeoPanda -> carte [[chloroplèthe]] : c'est de l'ingénieurie logicielle dans le cadre d'une prgorammation scientifique. 
+Exemple : passer du CSV -> dataframe GeoPanda -> carte [[chloroplèthe]] : c'est de l'ingénieurie logicielle dans le cadre d'une programmation scientifique. 
 
 Python simple à écrire, interactif, 
 

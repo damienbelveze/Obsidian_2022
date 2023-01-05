@@ -2,7 +2,7 @@
 aliases: [guerres culturelles, cultural war, cultural wars, culture war, culture wars]
 ---
 
-concept né aux USA dans les années 90 en réaction avec le tournant conservateur de la décennie 80 incarnée par le Président Ronald Reagan. Le terme désigne la [[polarisation]] de parties antagonistes de la population (libéraux vs conservateurs) sur des sujets de société (LGBT, avortement, crise climatique, religion) voire des [[styles de vie]]. 
+concept né aux USA dans les années 90 en réaction avec le tournant conservateur de la décennie 80 incarnée par le Président Ronald Reagan. Le terme désigne la [[polarisation]] de parties antagonistes de la population (libéraux vs conservateurs) sur des sujets de société ([[LGBTQ]], avortement, crise climatique, religion) voire des [[styles de vie]]. 
 
 Ce phénomène a eu dans chaque camp un effet homogénéisant empêchant des voies dissidentes de s'exprimer et conduisant les grands médias à s'aligner sur le corpus idéologique de chaque camp (Fox News d'un côté et le New York Times de l'autre) favorisant ainsi un [[Clientélisme médiatique]]. 
 Dans certains cas, cette polarisation d'un quotidien comme le NYT peut même aller jusqu'à la censure d'informations utiles au débat public au prétexte que cela nuirait à la cause du parti incarnant le camp libéral comme l'investigation portant sur les activités de Hunter Biden (fils du candidat Joe Biden) en Ukraine et en Chine.

@@ -11,6 +11,17 @@ tags: [serious_games, programmation]
 ---
 
 logiciel libre permettant de construire des récits interactifs ("jeux dont vous êtes le héros")
+moteur de jeu narratif inventé par Chris Klimas en 2009 et sorti des limbes par la game-designeuse Anna Anthropy en 2012 ([[@friedhoffUntanglingTwinePlatform]])
+Ce moteur est utilisable par des gens qui ne savent pas coder pour construire des jeux où la narration occupe une part importante. 
+D'ailleurs, le jeu n'est pas d'abord conçu pour des développeurs mais mets l'emphase sur l'écriture de l'histoire : 
+
+>Putting the emphasis on 'writers,' rather than  
+'developers' or 'game-makers,' implies that creating this kind of interactive experience is  
+not limited to those with technical ability. This point is emphasized by the reference  
+materials' attitude to code. The materials do not assume that code is inherently valuable or  
+that all users will be interested in learning it (or able to learn it at all) ([[@friedhoffUntanglingTwinePlatform]])
+
+Twine permet d'exposer sous une forme ludique des sujets qui exigent de la réflexion ou de l'empathie (voir pour cette dernière la manière dont la communauté [[LGBTQ ]]a investi la plateforme)
 
 Mémo de la syntaxe[[@reseaucyber-baselacq-orthezMemoTwine2021]]
 

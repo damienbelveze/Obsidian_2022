@@ -12,6 +12,14 @@ tags: [Programmation]
 
 Pour les conférences sur Python voir [[Cocopy]]
 
+# afficher des instructions
+
+le module input() va permettre d'afficher une instruction et d'attendre que l'utilisateur frappe une touche
+
+```python
+input("frappez une touche de votre clavier pour afficher l'ensemble des notes de votre coffre")
+```
+
 # sélectionner un fichier avec une interface graphique
 
 ## tkinter
@@ -77,10 +85,41 @@ for root, dirs, files in os.walk(r'D:'):
         # check the extension of files
         if file.endswith('.md'):
             # print whole path of files
-            print(os.path.join(root, file))
+            print(os.path.join(root, dirs, file))
+         else:
+input("il n'y a pas de note dans ce coffre dans le bon format")
+
 ``````
 
 cherche et affiche tous les documents en markdown dans le disque D: (recherche récursive dans tous les dossiers)
+
+Autre possibilité, utiliser glob
+
+````shell
+pip install glob2
+`````
+
+````python
+list_notes = glob.glob(os.path.join(path, '*.md'), recursive=True)
+`````
+cherche dans le répertoire Path et les dossiers sous-jacents tous les fichiers qui sont en markdown (md)
+
+## vérifier qu'un fichier au moins d'une certaine extension se trouve dans un dossier
+
+````python
+import os
+import tkinter
+from tkinter.filedialog import askdirectory
+path = askdirectory()
+if not any(File.endswith('.md') for File in os.listdir(path)):
+	print("pas de note trouvée")
+else:
+    input("sélectionner un fichier")
+`````
+
+Si le fichier avec la bonne extension n'est pas présent, demander à l'utilisateur de charger ailleurs un fichier avec la bonne extension : 
+
+
 
 # chercher un document sur Internet et le télécharger 
 
@@ -137,6 +176,28 @@ filedata = filedata.replace('e', 'a')
 with open('file.txt', 'w') as file:
   file.write(filedata)
 ``````
+# spliter des chemins (path)
+
+Les fichiers sélectionnés viennent souvent avec leur path (chemin)
+Par exemple : 
+D:/users/dbelveze/dossier/texte.txt
+Afin de ne conserver que texte.txt
+
+déterminer un chemin et utiliser la fonction basename
+
+````python
+import os.path
+path = "D:/users/dbelveze/dossier/texte.txt"
+file = os.path.basename(path)
+`````
+Pour séparer le nom de fichier de l'extension, utiliser la fonction split()
+
+````python
+notefull = notepath.split('.')
+notename = notefull[0]
+noteext = notefull[1]
+``````
+notename est le nom de fichier sans l'extension. Pour rappel l'élément en première position d'une liste dans Python occupe toujours la place 0.
 
 # supprimer des lignes qui contiennent une suite de caractères
 

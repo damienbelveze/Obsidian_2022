@@ -79,6 +79,11 @@ A Singapour, une enquête a permis de montrer que les données personnelles enre
 
 En Europe, nous avons au moins un cas d'abus de données prélevées grâce à l'application anti-covid allemande Luca, équivalent outre-Rhin de TousAntiCovid [[@a23h30Allemagneenqueteursont2022]]
 
+le 4 janvier 2023, Associated Press a fait paraître une étude sur les multiples détournements des outils de traçage comme TousAntiCovid à des fins de surveillance policière et de contrôle des populations[[@burkePoliceSeizeCOVID192022]]. 
+
+> Now, from Beijing to Jerusalem to Hyderabad, India, and Perth, Australia, The Associated Press has found that authorities used these technologies and data to halt travel for activists and ordinary people, harass marginalized communities and link people’s health information to other surveillance and law enforcement tools. In some cases, data was shared with spy agencies. The issue has taken on fresh urgency almost three years into the pandemic as China’s ultra-strict zero-COVID policies recently ignited the sharpest public rebuke of the country’s authoritarian leadership since the pro-democracy protests in Tiananmen Square in 1989
+
+
 ## vulnérabilité du système due à sa centralisation
 
 La centralisation liée au protocole ROBERT fait craindes des attaques contre ce serveur qui pourraient être ravageuses en terme de confiance ou bien une exploitation indue de ces données rassemblées au même endroit. En octobre 2020, la société privée chargée de conserver ces données n'était d'ailleurs pas connue du grand public ( [[@PUELMayenneApplicationAntiCovid2020]])

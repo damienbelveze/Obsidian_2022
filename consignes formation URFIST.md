@@ -43,7 +43,7 @@ télécharger l'archive et extrayez-la.
 
 ## Liste des fichiers et des dossiers dans le support
 
-- bracket eraser (dossier contenant un exécutable, le script de cet exécutable et une instruction (fichier REad.me))
+- [[bracket eraser]] (dossier contenant un exécutable, le script de cet exécutable et une instruction (fichier REad.me))
 - images (dossier contenant quelques images)
 - references (dossier vide)
 - batonnage_depeches (fichier odt)

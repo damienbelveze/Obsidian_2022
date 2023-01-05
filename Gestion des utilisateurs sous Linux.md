@@ -34,6 +34,8 @@ Sous Linux, le superutilisateur qui règles les droits des utilisateurs est *roo
 
 pour lancer une commande en tant que superutilisateur, utiliser `sudo`
 
+![](sudoer.jpg)
+
 Pour ouvrir une consolle root  `sudo -i` permet de passer plusieurs commandes sans avoir à utiliser à chaque fois le préfixe sudo
 
 Afficher les mots de passe des utilisateurs demande une élévation de privilège : 

@@ -108,14 +108,14 @@ templates disciplinaires :
 - Documenter (fournir les info qui gravitent autour du jeu de données)
 - stockage : 3/2/1 trois back-ups sur 2 supports différents dont 1 à distance
 - exigences légales et éthiques : licences, RGPD
-- Partage es données et conservation à long terme : ne pas confondre l'archivage et le stockage ([[archivage]] = migration des formats) - identifier l'entrepôt de données en fonction de la découvrabilité (un entrepôt disciplinaire est plus riche en métadonnées pertinentes)
+- Partage des données et conservation à long terme : ne pas confondre l'archivage et le stockage ([[archivage]] = migration des formats) - identifier l'entrepôt de données en fonction de la découvrabilité (un entrepôt disciplinaire est plus riche en métadonnées pertinentes)
 - responsabilités
 
 exemple de description de données, voir présentation de Cécile Arènes (DMP one tool with many applications[[@HuserDatamanagementplans2022]])
 
 ## plan de gestion de données structuré pour une lecture artificielle
 
-PGD structuré = machine actionable
+PGD structuré = *machine actionable*
 
 Intérêts du PDG structuré : 
 
@@ -128,7 +128,7 @@ Intérêts du PDG structuré :
 
 
 Cette structure va légèrement changer. 
-Opidor : machine actionable DMP : export du PGD en Json (en complément de la version en ligne du plan de gestion)
+Opidor : *machine actionable DMP* : export du PGD en Json (en complément de la version en ligne du plan de gestion)
 
 [instructions pour trouver et remplir un DMP structuré](https://github.com/OPIDoR/DMPOPIDoR/blob/dmpopidor-master/public/files/DMPOPIDoR/DMPOPIDoRV3_Guide_Utilisateur.pdf)
 
